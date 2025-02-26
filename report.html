@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RM Price Change Analysis</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        table {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        ul {
+            list-style-position: inside;
+            display: inline-block;
+            text-align: left;
+        }
+    </style>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                fetch('figures/example_comments.txt')
+                    .then(response => response.text())
+                    .then(data => {
+                        const comments = data.split('\n');
+                        const ul = document.getElementById('comments-list');
+                        comments.forEach(comment => {
+                            if (comment.trim()) {
+                                const li = document.createElement('li');
+                                li.textContent = comment;
+                                ul.appendChild(li);
+                            }
+                        });
+                    })
+                    .catch(error => console.error('Error fetching the comments:', error));
+            });
+        </script>
+</head>
+<body>
+    <h2>RM Price Change Analysis</h2>
+
+    <p>Since May 2024, <strong>52.3%</strong> of RM inputted baseline rents have fallen within the range given by <em>RevenX</em></p>
+
+    <br>
+
+    <table>
+        <tr>
+            <td><img src="figures/acc_over_time.png" alt="Acceptance over time"></td>
+        </tr>
+        <tr>
+            <td><em>Rate of acceptance of RMP recommendation has steadily decreased since its inception</em></td>
+        </tr>
+    </table>
+
+    <br>
+    <br>
+    <br>
+
+    <p>Of the ~48% that do not fall within the given range:</p>
+    <ul>
+        <li><strong>62.3%</strong> are above the upper bound of the range</li>
+        <li><strong>37.7%</strong> are below the lower bound.</li>
+    </ul>
+
+    <br>
+
+    <p>The magnitude of the edits vary widely by market, unit group, and asset.</p>
+
+    <hr>
+
+    <table>
+        <tr>
+            <td><img src="figures/change_reason_metrics.png" alt="ChangeReason Metrics"></td>
+        </tr>
+    </table>
+
+    <br>
+    <br>
+
+    <p><strong>Example comments with ChangeReason = 'Other Action Taken'</strong></p>
+
+    <ul id="comments-list"></ul>
+
+    <br>
+
+    <br>
+    <hr>
+    <br>
+
+    <h3>Breakdown by Market</h3>
+
+    <table>
+        <tr>
+            <td><img src="figures/low_acc_bymarket.png" alt="Low acceptance by market"></td>
+        </tr>
+    </table>
+
+    <br>
+    <br>
+
+    <table>
+        <tr>
+            <td><img src="figures/adj_over_time/Phoenix-Mesa-Scottsdale, AZ.png" alt="Adjustment trends in Phoenix market" style="height: 600px"></td>
+        </tr>
+    </table>
+
+    <br>
+    <hr>
+    <br>
+
+    <h3>Breakdown by Property</h3>
+
+    <table>
+        <tr>
+            <td><img src="figures/low_acc_byproperty.png" alt="Low acceptance by property"></td>
+        </tr>
+    </table>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <table>
+        <tr>
+            <td><img src="figures/adj_over_time/Cortland Northlake.png" alt="Adjustment trends at Cortland Northlake" style="height: 600px"></td>
+        </tr>
+    </table>
+
+</body>
+</html>

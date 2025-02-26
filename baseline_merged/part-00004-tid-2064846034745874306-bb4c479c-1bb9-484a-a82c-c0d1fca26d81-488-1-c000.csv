@@ -1,0 +1,713 @@
+AssetName,FloorPlanGroupName,RecommendationDate,InputtedRent,ChangeReason,Comment,User,Timestamp,recc_rate,recc_rate_lower,recc_rate_upper
+Brooksedge,2x1.5,2024-11-21,"1,289",Baseline Rent Accepted,leased 94%,Melissa Jones,2024-11-22,1334.3725760323662,1301.6611502511162,1367.0841238839287
+Cortland Rosslyn - Phase 1,1x1,2025-01-13,"3,115",Other Action taken (see comment),"leased 94%, data entry",Melissa Jones,2025-01-14,3038.5240448250256,2969.4339569344006,3107.6141327156506
+Cortland Woodlands,3x2.5,2024-12-05,"2,225",Soft/Low trends do not support rent recommendation,,Zack Knab,2024-12-06,2154.3812430245534,2108.9859793526784,2199.7764979771205
+Cortland West Plano,2x1,2025-01-13,"2,031",Other Action taken (see comment),Hold,Ruchi Naik,2025-01-14,1958.1858723958333,1913.7895100911458,2002.5822347005208
+Cortland Cotswold,2x1,2024-11-11,"1,377",Baseline Rent Accepted,leased 90%,Melissa Jones,2024-11-12,1376.73044720818,1343.264382755055,1410.196511661305
+Cortland at Coalton,1x1,2024-11-20,"1,900",Soft/Low trends do not support rent recommendation,,Joshua Bivens,2024-11-21,1998.4730880901377,1951.245114562332,2045.7010301159273
+Cortland Chandler Crossing,1x1,2024-11-13,"1,802",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,1694.3448893229167,1653.6997477213542,1734.9899088541667
+Cortland Midtown East Phase 1 - Vue 64,3x3,2024-11-11,"2,505",Other Action taken (see comment),leased 60%,Melissa Jones,2024-11-12,2438.2890625,2378.53173828125,2498.046142578125
+Cortland Belmar Phase I,2x2,2025-01-12,"2,110",Other Action taken (see comment),held the course no movement in the past 30,Joshua Bivens,2025-01-13,2043.153970297281,1993.1823048777394,2093.125802176339
+Lake Ridge,2x1,2024-12-02,"1,290",Other Action taken (see comment),leased 91%,Melissa Jones,2024-12-03,1245.2940673828125,1214.78955078125,1275.7987060546875
+Cortland South Kendall - Phase 2,0x1,2024-12-19,"2,175",Other Action taken (see comment),$1 Change for Web Feed,Corinne Smith,2024-12-20,2014.709452311198,1964.9250081380208,2064.493937174479
+Perimeter 5550,1x1,2024-12-19,"1,400",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-20,1327.0588060461957,1295.5181566321332,1358.5994554602582
+Cortland on Orange,1x1,2024-12-09,"1,811",Soft/Low trends do not support rent recommendation,,Corinne Smith,2024-12-10,1891.2641379616477,1851.1756523505792,1931.3525168678977
+Cortland North Dallas,1x1,2024-12-05,"1,280",Baseline Rent Accepted,,Ruchi Naik,2024-12-06,1303.250723825374,1275.7064123019366,1330.7950353488116
+Cortland Broomfield,1x1,2024-11-13,"1,734",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,1729.5683419363838,1688.2398507254463,1770.8968331473213
+Heights of Benbrook,3x2,2024-12-11,"2,074",Other Action taken (see comment),Making $1 change to move from YS to RMP,Jason Halpert,2024-12-12,1953.2083740234375,1906.409423828125,2000.00732421875
+Cortland Sugar Land,2x2,2025-01-01,"2,190",Strong/High trends do not support rent recommendation,price position change,Jason Halpert,2025-01-02,2125.783797554348,2077.144637398098,2174.422957710598
+Cortland Estates at TPC,2x2,2024-12-01,"1,770",Baseline Rent Accepted,,Jason Halpert,2024-12-02,1738.2308542351973,1700.2389108758223,1776.2227975945723
+Lake Ridge,2x1,2025-01-12,"1,212",Baseline Rent Accepted,leased 91%,Melissa Jones,2025-01-13,1222.0672607421875,1192.143310546875,1251.9912109375
+Cortland Broomfield,3x2,2024-11-13,"2,807",Low lead volume,,Joshua Bivens,2024-11-14,2757.157940204327,2689.402080829327,2824.913799579327
+The Flats at Westover Hills,2x1,2024-11-10,"1,327",Other Action taken (see comment),"Small FP, less volatile change",Jason Halpert,2024-11-11,1258.0038248697917,1228.2516276041667,1287.7560221354167
+Cortland Oleander - Phase 2,1x1,2024-12-19,"1,660",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-20,1615.0519620130688,1578.5679532240063,1651.5359708021313
+Cortland Riverview,1x2,2025-01-13,"1,930",Other Action taken (see comment),Rate Push for Feed (No Change),Corinne Smith,2025-01-14,1856.866001674107,1823.8729596819196,1889.859165736607
+Cortland Westminster,2x1,2025-01-12,"1,950",Other Action taken (see comment),slight increasses,Joshua Bivens,2025-01-13,1865.9626057942708,1819.8968098958333,1912.0282796223958
+Cortland Peachtree Battle,0x1-R,2025-01-13,"1,480",Strong/High trends do not support rent recommendation,,Zack Knab,2025-01-14,1744.580810546875,1709.96630859375,1779.1953125
+Cortland Peachtree Battle,0x1-R,2025-01-13,"1,840",Other Action taken (see comment),,Zack Knab,2025-01-14,1744.580810546875,1709.96630859375,1779.1953125
+Cortland Peachtree Battle,0x1-R,2025-01-13,"1,480",Strong/High trends do not support rent recommendation,,Zack Knab,2025-01-14,1744.580810546875,1709.96630859375,1779.1953125
+Cortland Peachtree Battle,0x1-R,2025-01-13,"1,800",Other Action taken (see comment),,Zack Knab,2025-01-14,1744.580810546875,1709.96630859375,1779.1953125
+Cortland Reunion,1x1,2024-12-29,"1,486",Baseline Rent Accepted,$55 inc (optimal),Corinne Smith,2024-12-30,1473.6861666165864,1443.3199556790864,1504.0523775540864
+Cortland Rosslyn - Phase 1,2x2,2024-11-11,"2,800",Strong/High trends do not support rent recommendation,leased 93%,Melissa Jones,2024-11-12,4509.908516362028,4410.236176112912,4609.580879643278
+Cortland Desert Ridge,2x2,2024-11-21,"1,989",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-22,1976.0724289838006,1927.2505313648896,2024.8942224839154
+Cortland Broomfield,2x2,2024-11-13,"2,200",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,2288.9441170528016,2235.7226815059266,2342.1655525996766
+Cortland Pentagon City,1x1,2024-12-05,"2,546",Baseline Rent Accepted,leased 86.5%,Melissa Jones,2024-12-06,2494.0366804793075,2438.4495222761825,2549.6235945418075
+Cortland Wren Northlake - Phase 1,2x2.5,2024-11-11,"2,045",Baseline Rent Accepted,leased 86%,Melissa Jones,2024-11-12,2063.1498064313614,2012.8567940848213,2113.4429757254466
+Indigo Creek,2x2,2024-11-21,"1,501",Other Action taken (see comment),,Joshua Bivens,2024-11-22,1514.8666675708912,1478.1813648365162,1551.5519703052662
+Cortland Scottsdale Mountain,0x1,2024-11-25,"1,499",Other Action taken (see comment),,Joshua Bivens,2024-11-26,1428.0,1392.300048828125,1463.699951171875
+Cortland Inkwell Greenhouse,1x1,2025-01-06,"1,420",Strong/High trends do not support rent recommendation,,Jason Halpert,2025-01-07,1363.3963003585588,1331.5912466476213,1395.2013540694963
+Cortland at Phipps Plaza,2x2,2025-01-13,"2,100",Other Action taken (see comment),,Zack Knab,2025-01-14,2070.334007626488,2024.559349423363,2116.108737037295
+Cortland North Dallas,0x1,2025-01-12,"1,139",Baseline Rent Accepted,"+$39, still below $1K, leased well and need to bring back up to budget",Ruchi Naik,2025-01-13,1151.2625009172914,1126.0192038475434,1176.5056688606394
+Cortland East Cobb,2x2,2025-01-01,"1,820",Strong/High trends do not support rent recommendation,,Zack Knab,2025-01-02,1868.979406286169,1824.2920283564815,1913.666906286169
+Jefferson Chase,1x1,2025-01-13,"1,122",Other Action taken (see comment),"leased 92%, data entry",Melissa Jones,2025-01-14,1095.5600992838542,1068.6501897176106,1122.4698893229167
+Cortland Midtown Miami,2x2,2025-01-13,"3,934",Baseline Rent Accepted,Inc $29 (Half of Upper),Corinne Smith,2025-01-14,3874.5055385044643,3786.0358119419643,3962.975313895089
+Cortland at Valley Ranch,3x2,2024-12-11,"2,659",Other Action taken (see comment),Making $1 change to move from YS to RMP,Jason Halpert,2024-12-12,2540.833794487847,2480.055962456597,2601.611626519097
+Cortland at Coalton,1x1,2024-11-13,"1,900",Low lead volume,,Joshua Bivens,2024-11-14,1966.8498075751847,1920.4124558971773,2013.2872117565523
+Cortland at New Albany,2x2.5,2024-11-13,"2,035",Baseline Rent Accepted,leased 94%,Melissa Jones,2024-11-14,2080.1633504231772,2031.2737630208333,2129.0528157552085
+Cortland Farmers Market,3x2,2024-12-11,"3,149",Other Action taken (see comment),Making $1 change to move from YS to RMP,Jason Halpert,2024-12-12,2847.16259765625,2779.296142578125,2915.029296875
+Cortland ChampionsGate,1x1,2024-12-29,"1,566",Baseline Rent Accepted,-$44 dec (upper),Corinne Smith,2024-12-30,1527.6209050958807,1496.2849675958807,1558.9568425958807
+Cortland Galleria,1x1,2024-12-29,"1,384",Baseline Rent Accepted,$5,Ruchi Naik,2024-12-30,1387.9077396630253,1357.3199711083378,1418.4955082177128
+Cortland Peachtree Corners,2x2,2024-12-04,"2,340",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-05,2316.554968631629,2260.860632694129,2372.249060428504
+Cortland Belmar Phase II,2x1-R,2025-01-12,"2,300",Other Action taken (see comment),increase $50,Joshua Bivens,2025-01-13,2196.0607096354165,2151.7008463541665,2240.4205729166665
+Abbie Lakes,1x1,2025-01-13,"1,210",Other Action taken (see comment),"leased 96%, data entry",Melissa Jones,2025-01-14,1229.9135102771577,1199.7340669177827,1260.0928315662202
+Cortland Satori - Phase 1,1x1,2024-12-17,"2,010",Baseline Rent Accepted,-$20 dec,Corinne Smith,2024-12-18,1964.6921228306894,1919.4307330182492,2009.9535219614743
+Cortland Peachtree Corners,1x1,2024-11-12,"1,710",Strong/High trends do not support rent recommendation,,Zack Knab,2024-11-13,1574.3849274891588,1538.8232819813463,1609.9466950672838
+Cortland Arboretum,2x2,2024-12-01,"1,938",Baseline Rent Accepted,,Jason Halpert,2024-12-02,1970.4827724358975,1923.8441005608975,2017.1214443108975
+Cortland South Mountain,3x2,2024-11-25,"2,212",Other Action taken (see comment),,Joshua Bivens,2024-11-26,2237.097846137153,2184.302435980903,2289.893256293403
+Cortland Arbor Hills,2x1,2025-01-13,"1,858",Baseline Rent Accepted,($25),Ruchi Naik,2025-01-14,1826.87451171875,1783.17919921875,1870.56982421875
+Portofino Place 2,1x1,2024-12-16,"1,990",Baseline Rent Accepted,-50 Dec (upper),Shalina Daswani,2024-12-17,1945.9793165775768,1899.4335409242508,1992.5249565972222
+Portofino Place 2,1x1,2024-12-16,"1,990",Baseline Rent Accepted,-50 Dec (upper),Shalina Daswani,2024-12-17,1945.9793165775768,1899.4335409242508,1992.5249565972222
+Cortland Belmar Phase I,2x2,2024-11-13,"2,120",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,1978.4946986607142,1930.1394740513392,2026.8499232700892
+Cortland West Boynton,1x1,2024-12-19,"2,061",Other Action taken (see comment),$1 Change for Web Feed,Corinne Smith,2024-12-20,1979.0933973524307,1930.2861463758682,2027.9005262586807
+Cortland at P83,2x1,2024-11-13,"1,786",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,1652.9398600260417,1612.6579996744792,1693.2215983072917
+Cortland Pembroke Pines,2x2,2024-12-15,"2,403",Baseline Rent Accepted,$56 inc,Corinne Smith,2024-12-16,2402.5030924479165,2345.1197916666665,2459.8866373697915
+Cortland Oak Lawn,0x1,2024-11-11,"1,290",Other Action taken (see comment),Changing price position for marketing,Jason Halpert,2024-11-12,1240.0658379916488,1211.7969170932113,1268.3346368197738
+Cortland Wren Northlake - Phase 1,1x1,2024-11-19,"1,344",Baseline Rent Accepted,leased 92%,Melissa Jones,2024-11-20,1312.7633443692835,1281.4838033536585,1344.042763314596
+Cortland ChampionsGate,1x1,2025-01-06,"1,492",Baseline Rent Accepted,Dec -$37,Corinne Smith,2025-01-07,1528.8014470880682,1497.4359685724432,1560.1669256036932
+Cortland Estates at TPC,4x3,2024-12-01,"2,508",Baseline Rent Accepted,,Jason Halpert,2024-12-02,2482.8362201891446,2424.7554096422696,2540.9170307360196
+Cortland Pembroke Pines,1x1,2025-01-13,"2,050",Other Action taken (see comment),Rate Push for Feed (No Change),Corinne Smith,2025-01-14,1943.6165984182646,1899.0887275464606,1988.14453125
+Cortland North Tucson,2x2,2024-11-13,"1,660",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,1639.6534423828125,1599.80078125,1679.506103515625
+Cortland at Phipps Plaza,0x1,2025-01-13,"1,425",Other Action taken (see comment),,Zack Knab,2025-01-14,1333.5082872178818,1301.0941026475693,1365.9223497178818
+Reserve at Abbie Lakes,2x2,2024-11-10,"1,350",Baseline Rent Accepted,leased 96%,Melissa Jones,2024-11-11,1346.4605712890625,1313.174072265625,1379.7470703125
+Cortland Flatirons,1x1,2025-01-12,"1,850",Other Action taken (see comment),held,Joshua Bivens,2025-01-13,1800.6827022668087,1757.0397579308712,1844.3257686730587
+Cortland Dublin,1x1,2025-01-13,"1,345",Other Action taken (see comment),"leased 92%, data entry",Melissa Jones,2025-01-14,1275.5519612630208,1244.4887288411458,1306.6151936848958
+Sunbury Ridge,2x1.5,2025-01-12,"1,457",Baseline Rent Accepted,leased 90.5%,Melissa Jones,2025-01-13,1423.856910342262,1390.7457042875744,1456.968238467262
+Reserve at Abbie Lakes,2x1.5,2025-01-13,"1,330",Other Action taken (see comment),"leased 93%, data entry",Melissa Jones,2025-01-14,1334.1208089192708,1301.2511800130208,1366.9905598958333
+Abbie Lakes,2x2,2025-01-13,"1,380",Other Action taken (see comment),"leased 93%, data entry",Melissa Jones,2025-01-14,1367.714390345982,1334.5594831194196,1400.8692975725446
+Cambridge at Hickory Hollow,3x2-C,2024-12-10,"1,900",Other Action taken (see comment),leased 89%,Melissa Jones,2024-12-11,1817.1100226508247,1773.822536892361,1860.397488064236
+Huntington Glen,1x1,2024-11-13,"1,286",Baseline Rent Accepted,,Jason Halpert,2024-11-14,1262.6064595067223,1235.2346333348473,1289.9782856785973
+Jefferson Chase,1x1,2024-12-29,"1,171",Baseline Rent Accepted,leased 92%,Melissa Jones,2024-12-30,1180.5381266276042,1151.5038248697917,1209.5723063151042
+Cortland Bear Creek,1x1,2024-11-14,"1,553",Other Action taken (see comment),Changing $2 for best rate for marketing,Jason Halpert,2024-11-15,1620.2734781901042,1583.5644938151042,1656.9823404947917
+Cortland South Mountain,3x2,2024-11-21,"2,212",Other Action taken (see comment),,Joshua Bivens,2024-11-22,2237.097846137153,2184.302435980903,2289.893256293403
+Cortland Lake Howell,1x1,2024-12-16,"1,510",Soft/Low trends do not support rent recommendation,Hold,Shalina Daswani,2024-12-17,1580.9358602987754,1543.1709677206504,1618.7007528769004
+Cortland Cap Hill,1x1,2024-11-13,"1,927",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,1842.9424370659722,1801.4165581597222,1884.4682150946724
+Cortland at P83,0x1,2025-01-13,"1,369",Other Action taken (see comment),held the course,Joshua Bivens,2025-01-14,1267.571533203125,1236.5697021484375,1298.5732421875
+Cortland Walnut Hill,1x1,2024-12-17,"1,472",Other Action taken (see comment),Keeping best under $1400 for marketing while taking increase,Jason Halpert,2024-12-18,1513.2274966032608,1480.8947329313858,1545.5603823454483
+Cortland Highcroft,1x1,2024-11-14,"1,361",Baseline Rent Accepted,leased 89%,Melissa Jones,2024-11-15,1366.5134656182652,1334.6351697198277,1398.3918835870152
+Cortland West Plano,2x1,2024-12-26,"2,081",Other Action taken (see comment),,Ruchi Naik,2024-12-27,1958.1941731770833,1913.7975667317708,2002.5906575520833
+Cortland at National Landing,2x2-C,2025-01-13,"3,320",Other Action taken (see comment),"leased 84%, data entry",Melissa Jones,2025-01-14,3350.186969521605,3280.597614052855,3419.77656913098
+Cortland Onion Creek,2x2,2024-12-25,"1,811",Baseline Rent Accepted,,Jason Halpert,2024-12-26,1783.5751086819557,1742.7397815335182,1824.4104377992692
+Cortland Rosslyn - Phase 2,0x1,2024-11-19,"2,420",Baseline Rent Accepted,leased 94%,Melissa Jones,2024-11-20,2401.418103276467,2345.285779057717,2457.550671635842
+Cortland Hunters Creek,1x1,2024-11-12,"1,630",Baseline Rent Accepted,,Melissa Jones,2024-11-13,1625.717191333613,1589.885160083613,1661.549222583613
+Cortland Walker Ranch,2x2.5,2025-01-13,"2,260",Other Action taken (see comment),Yesterday ask,Jason Halpert,2025-01-14,2151.861189217403,2106.6163287984914,2197.1058307516164
+Cortland Olde Raleigh,1x1,2025-01-13,"1,320",Other Action taken (see comment),"leased 88%, data entry",Melissa Jones,2025-01-14,1263.0144114774816,1233.2883372587316,1292.7404856962316
+Cortland NoDa,1x1.5,2025-01-13,"1,900",Other Action taken (see comment),"leased 100%, data entry",Melissa Jones,2025-01-14,1810.3577473958333,1769.3072102864583,1851.4084065755208
+Cortland at Raven,3x2,2024-11-13,"2,139",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,2079.1193033854165,2028.1955607096354,2130.0431315104165
+Cortland Covington Ridge,2x2,2025-01-13,"2,105",Other Action taken (see comment),held,Joshua Bivens,2025-01-14,2015.5380859375,1966.19970703125,2064.8765380859377
+Cortland Wren Northlake - Phase 1,1x1,2025-01-13,"1,370",Other Action taken (see comment),"leased 93.5%, data entry",Melissa Jones,2025-01-14,1309.400917611471,1278.205605111471,1340.5963521817835
+Cortland Red Mountain,1x1,2025-01-13,"1,567",Other Action taken (see comment),held,Joshua Bivens,2025-01-14,1504.4818578259699,1469.0508275525324,1539.9128880994074
+Cortland One Twenty One,2x1,2025-01-13,"1,613",Other Action taken (see comment),Hold,Ruchi Naik,2025-01-14,1559.8609619140625,1521.653564453125,1598.0684814453125
+Cortland Dublin,2x2,2024-12-08,"1,720",Strong/High trends do not support rent recommendation,leased 96%,Melissa Jones,2024-12-09,1662.2485758463542,1622.9996744791667,1701.4974772135417
+Cortland at Green Valley,2x2,2024-11-13,"2,120",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,2094.12223331227,2043.8310223747703,2144.413703469669
+Cortland West Houston,2x2,2024-12-17,"1,645",Other Action taken (see comment),Less volatile reduction under RR,Jason Halpert,2024-12-18,1588.217615198206,1550.1625614872685,1626.272546838831
+Cortland at the Hammocks - Phase 2,2x2,2025-01-06,"2,419",Other Action taken (see comment),Dec -$47 to RR. No apps secured T30.,Corinne Smith,2025-01-07,2332.0724653764205,2275.3603071732955,2388.7848677201705
+Cortland South Mountain,2x2,2024-11-21,"1,828",Other Action taken (see comment),,Joshua Bivens,2024-11-22,1735.3888346354167,1694.7880045572917,1775.9896647135417
+Cortland Biltmore,2x2,2024-11-21,"3,282",Other Action taken (see comment),,Joshua Bivens,2024-11-22,3277.0523957283267,3201.9486359627017,3352.1561554939517
+Reserve at Abbie Lakes,2x2,2024-12-08,"1,417",Baseline Rent Accepted,leased 98%,Melissa Jones,2024-12-09,1355.3955078125,1321.8856201171875,1388.9053955078125
+Cortland Belmar Phase II,3x2,2024-11-13,"2,874",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,2853.8058143028848,2792.4759803185098,2915.1354041466348
+Cortland Belmar Phase I,2x2.5,2025-01-12,"2,521",Other Action taken (see comment),held the course no movement in the past 30,Joshua Bivens,2025-01-13,2476.527099609375,2416.176513671875,2536.8779296875
+Cortland Whitehall,3x2,2024-11-25,"1,904",Baseline Rent Accepted,leased 92%,Melissa Jones,2024-11-26,1951.2978108723958,1904.4737141927083,1998.1219075520833
+Cortland Whitehall,1x1,2025-01-13,"1,344",Other Action taken (see comment),"leased 87%, data entry",Melissa Jones,2025-01-14,1324.847505028568,1295.7441114738806,1353.951020653568
+Cortland Kings Meadow,2x2,2025-01-13,"2,641",Baseline Rent Accepted,Inc $27 (Upper),Corinne Smith,2025-01-14,2576.961144649621,2513.223839962121,2640.698693477746
+Reserve at Abbie Lakes,2x1,2024-12-15,"1,201",Baseline Rent Accepted,leased 90%,Melissa Jones,2024-12-16,1172.0861138237847,1143.1206597222222,1201.0514458550347
+Cortland Phillips Creek Ranch Phase 1 - Stratus,2x2,2024-12-15,"1,926",Other Action taken (see comment),Test -$10,Ruchi Naik,2024-12-16,1837.1628382065717,1792.6798071767769,1881.6457531498927
+Cortland World Gateway,3x3,2024-12-19,"2,770",Other Action taken (see comment),$1 Change for Web Feed,Corinne Smith,2024-12-20,2576.552978515625,2515.01416015625,2638.091796875
+Cortland Avion Shadow Creek,3x2,2024-11-11,"2,220",Other Action taken (see comment),"Adjusting for best rate, refi occ strategy",Jason Halpert,2024-11-12,2301.220477764423,2246.954364483173,2355.486591045673
+Cortland at 2534,3x2,2024-11-20,"2,273","Cashflow strategy,  Elevated occupancy goal v. budget",,Joshua Bivens,2024-11-21,2204.978515625,2150.10400390625,2259.85302734375
+Cortland Pentagon City,1x1.5,2024-12-05,"2,975",Strong/High trends do not support rent recommendation,leased 100%,Melissa Jones,2024-12-06,2611.0,2543.22509765625,2678.77490234375
+Cortland Hunters Creek,2x2,2024-12-09,"1,907",Baseline Rent Accepted,-$108 Dec,Corinne Smith,2024-12-10,1907.2991761552526,1863.1557426723182,1951.4427256482713
+Fountain Wood,2x1,2024-12-17,"1,685",Other Action taken (see comment),Moved to Jan budget,Jason Halpert,2024-12-18,1578.4176839192708,1540.4234212239583,1616.4119466145833
+Cortland Dublin,2x2,2024-11-13,"1,528",Soft/Low trends do not support rent recommendation,leased 94%,Melissa Jones,2024-11-14,1569.4492594401042,1532.5203043619792,1606.3780924479167
+Cortland Dublin,2x2,2024-11-13,"1,528",Soft/Low trends do not support rent recommendation,leased 91%,Melissa Jones,2024-11-14,1569.4492594401042,1532.5203043619792,1606.3780924479167
+Cortland South Kendall - Phase 2,3x2,2024-12-19,"3,585",Other Action taken (see comment),$1 Change for Web Feed,Corinne Smith,2024-12-20,3356.1260579427085,3273.8062337239585,3438.4458821614585
+Cortland West Houston,3x2,2024-11-14,"1,975",Strong/High trends do not support rent recommendation,"100% leased, small FP, last lease was at rent and RGR is higher than last price so reduction is counterintuitive",Jason Halpert,2024-11-15,1829.4427897135417,1784.4983317057292,1874.3871256510417
+Cortland at Twin Creeks,2x2,2024-12-15,"1,852",Other Action taken (see comment),Test -$5,Ruchi Naik,2024-12-16,1798.7942256221065,1757.1426142939815,1840.4458369502315
+Cortland Oak Lawn,2x2,2024-12-17,"2,095",Strong/High trends do not support rent recommendation,Getting closer to Jan budget,Jason Halpert,2024-12-18,2178.2904520480433,2128.550451546072,2228.0302152544537
+Cortland Hunters Creek,3x2,2024-12-09,"2,189",Baseline Rent Accepted,-$136 Dec,Corinne Smith,2024-12-10,2189.4075833834136,2138.1964017427886,2240.6187650240386
+Cortland Peachtree Battle,0x1-C,2025-01-13,"1,480",Strong/High trends do not support rent recommendation,,Zack Knab,2025-01-14,1441.3893211851728,1406.7748192320478,1476.0038231382978
+Cortland Peachtree Battle,0x1-C,2025-01-13,"1,441",Baseline Rent Accepted,,Zack Knab,2025-01-14,1441.3893211851728,1406.7748192320478,1476.0038231382978
+Cortland Peachtree Battle,0x1-C,2025-01-13,"1,480",Strong/High trends do not support rent recommendation,,Zack Knab,2025-01-14,1441.3893211851728,1406.7748192320478,1476.0038231382978
+Cortland Desert Ridge,3x2,2024-11-21,"2,212",Other Action taken (see comment),,Joshua Bivens,2024-11-22,2146.6768391927085,2093.9602864583335,2199.3931477864585
+Cortland Sun River,1x1,2024-11-13,"1,337",Soft/Low trends do not support rent recommendation,,Joshua Bivens,2024-11-14,1394.0435384114583,1359.5805257161458,1428.5065511067708
+Cortland Hollywood,3x2,2025-01-13,"3,119",Strong/High trends do not support rent recommendation,Dec $50; Good trend. Rate is high.,Corinne Smith,2025-01-14,2963.928900824653,2893.743842230903,3034.113959418403
+Cortland North Tucson,3x2,2025-01-13,"2,065",Other Action taken (see comment),held,Joshua Bivens,2025-01-14,1993.5809326171875,1943.8975830078125,2043.26416015625
+Cortland at Twin Creeks,2x1,2025-01-13,"1,729",Other Action taken (see comment),Hold,Ruchi Naik,2025-01-14,1638.117431640625,1597.53955078125,1678.6953125
+Cortland Allen Station,2x2,2024-12-29,"2,066",Baseline Rent Accepted,get to another pricepoint -$30,Ruchi Naik,2024-12-30,2043.731034409153,1997.4581518954917,2090.0039682857328
+Cortland on the River,0x1,2024-11-10,"1,474",Baseline Rent Accepted,,Shalina Daswani,2024-11-11,1473.501810008082,1439.547952586207,1507.4557895002695
+Attiva Pearland,2x2,2024-12-16,"2,360",Strong/High trends do not support rent recommendation,Last unit leased at rent,Jason Halpert,2024-12-17,2218.39873046875,2164.281298828125,2272.516162109375
+Jefferson Chase,1x1,2024-11-24,"1,196",Baseline Rent Accepted,leased 94%,Melissa Jones,2024-11-25,1195.5509440104167,1166.1413981119792,1224.9606119791667
+Cortland North Plano,1x1,2024-12-29,"1,509",Baseline Rent Accepted,($30),Ruchi Naik,2024-12-30,1505.3710705720925,1471.2526623689675,1539.48960084553
+Cortland North Plano,1x1,2024-12-29,"1,485",Baseline Rent Accepted,held rate,Ruchi Naik,2024-12-30,1505.3710705720925,1471.2526623689675,1539.48960084553
+Cortland North Plano,1x1,2024-12-29,"1,485",Baseline Rent Accepted,held rate,Ruchi Naik,2024-12-30,1505.3710705720925,1471.2526623689675,1539.48960084553
+Cortland Sabino Canyon,2x2,2024-11-25,"1,430",Other Action taken (see comment),,Joshua Bivens,2024-11-26,1418.7968603148497,1384.2057958617247,1453.3880468382872
+Cortland on Ponce,2x2,2025-01-13,"2,520",Strong/High trends do not support rent recommendation,,Zack Knab,2025-01-14,2512.317272258255,2450.87611014888,2573.75843436763
+Mint Urban Infinity - Phase 2,1x1,2025-01-13,"1,287",Other Action taken (see comment),$40 increase,Joshua Bivens,2025-01-14,1189.792897483517,1166.446217796017,1213.139577171017
+Cortland at the Nations,2x2,2024-11-17,"2,220",Soft/Low trends do not support rent recommendation,leased 87%,Melissa Jones,2024-11-18,2309.713448660714,2254.077706473214,2365.349190848214
+Cortland Nona,1x1,2024-12-18,"1,849",Other Action taken (see comment),$49 inc (optimal); Good F60 with consistent apps,Corinne Smith,2024-12-19,1849.4857584635417,1807.4090983072917,1891.562533569336
+Cortland Hollywood,1x1,2024-12-15,"2,277",Baseline Rent Accepted,-$23 dec (upper),Corinne Smith,2024-12-16,2223.11767578125,2168.965576171875,2277.269775390625
+The Bend at Broad,2x1,2024-11-21,"1,192",Baseline Rent Accepted,leased 93%,Melissa Jones,2024-11-22,1191.654569185697,1162.369168795072,1220.939969576322
+Attiva Pearland,2x2,2025-01-01,"2,400",Strong/High trends do not support rent recommendation,,Jason Halpert,2025-01-02,2261.288134765625,2206.0984375,2316.47783203125
+The Bend at Broad,2x1,2024-12-15,"1,152",Baseline Rent Accepted,leased 91%,Melissa Jones,2024-12-16,1123.1192908653845,1095.5472693810095,1150.691190279447
+Cortland Arlington,1x1,2025-01-13,"2,579",Other Action taken (see comment),"leased 83%, data entry",Melissa Jones,2025-01-14,2521.8582356770835,2462.8013509114585,2580.9151204427085
+Cortland Sabino Canyon,1x1,2024-11-25,"1,280",Other Action taken (see comment),,Joshua Bivens,2024-11-26,1238.0506591796875,1207.685302734375,1268.416015625
+Cortland at Raven,2x2,2024-11-21,"1,789",Other Action taken (see comment),,Joshua Bivens,2024-11-22,1745.7327223557693,1704.4451246995193,1787.0201979417068
+Cortland at the Hill,1x1,2024-12-04,"1,800",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-05,1713.7712095340569,1672.5122947464447,1755.0302354275823
+1000 Spalding,3x2,2024-12-17,"2,355",Baseline Rent Accepted,,Zack Knab,2024-12-18,2307.4922688802085,2251.2632649739585,2363.7212727864585
+Cortland Mirror Lake,2x1,2024-12-09,"1,701",Other Action taken (see comment),-$55 Dec; Recommendation too aggressive.,Corinne Smith,2024-12-10,1615.53857421875,1576.175048828125,1654.9019775390625
+Cortland Ridglea - Phase 1,3x2,2024-12-17,"1,940",Other Action taken (see comment),Less volatile to RR,Jason Halpert,2024-12-18,1869.9709879557292,1826.0289713541667,1913.9128824869792
+Cortland at the Nations,0x1,2024-12-29,"1,490",Other Action taken (see comment),leased 92%,Melissa Jones,2024-12-30,1413.164097377232,1379.8885846819196,1446.4396100725446
+Mint Urban Infinity - Phase 2,2x1.5,2025-01-13,"1,571",Other Action taken (see comment),held,Joshua Bivens,2025-01-14,1533.1955078125,1497.454296875,1568.9365966796875
+Cortland Scottsdale Mountain,1x1,2025-01-13,"1,639",Other Action taken (see comment),held,Joshua Bivens,2025-01-14,1471.4523518880208,1437.9618733723958,1504.9428304036458
+Cortland Southpark Terraces,2x1,2024-11-17,"1,570",Baseline Rent Accepted,"Site trend low, adding staleness and tweaking up rate to seperate for imm move ins",Jason Halpert,2024-11-18,1543.3942464192708,1504.0334065755208,1582.7552083333333
+Cortland on Ponce,1x1,2025-01-13,"1,825",Strong/High trends do not support rent recommendation,,Zack Knab,2025-01-14,1898.4180928893009,1852.2880890409824,1944.5479757018009
+Cortland Highcroft,2x2,2024-12-30,"1,650",Baseline Rent Accepted,leased 90.5%,Melissa Jones,2024-12-31,1667.1846671268859,1626.8779044315734,1707.4914298221984
+Cortland South End,1x1-C,2024-12-16,"1,885",Baseline Rent Accepted,leased 100%,Melissa Jones,2024-12-17,1869.8730624112216,1826.4421519886364,1913.3039728338067
+Cortland Wren Northlake - Phase 1,2x2.5,2025-01-06,"2,135",Strong/High trends do not support rent recommendation,leased 100%,Melissa Jones,2025-01-07,1964.2193429129463,1916.3995186941963,2012.0390450613838
+Cortland Prairie Creek,1x1,2024-12-15,"1,693",Baseline Rent Accepted,-$6 to get into new price point,Ruchi Naik,2024-12-16,1698.9456023446758,1661.5554656259258,1736.3357390634258
+1000 Spalding,1x1,2024-12-17,"1,415",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-18,1340.0403893512228,1310.6447594684103,1369.4360192340353
+Abbie Lakes,2x1,2024-12-08,"1,285",Baseline Rent Accepted,leased 92%,Melissa Jones,2024-12-09,1316.8512660435267,1284.4746791294642,1349.2279750279017
+Cortland Deerfield Station,1x1,2024-12-29,"2,257",Baseline Rent Accepted,-$26 dec to RR; Low trend.,Corinne Smith,2024-12-30,2222.5149955289908,2169.5911674039908,2275.4385795133658
+Cortland at the Nations,1x1.5,2025-01-13,"2,520",Other Action taken (see comment),"leased 100%, data entry",Melissa Jones,2025-01-14,2466.0353190104165,2406.0509440104165,2526.0194498697915
+Cortland Watermark,2x1,2024-12-19,"1,660",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-20,1576.8620046841895,1538.141667770127,1615.5822195279395
+Cortland on Ponce,3x2,2025-01-13,"3,425",Strong/High trends do not support rent recommendation,,Zack Knab,2025-01-14,3104.206787109375,3027.6015625,3180.811767578125
+Cortland Bayside,1x1,2024-11-12,"2,030",Baseline Rent Accepted,,Melissa Jones,2024-11-13,2038.987548828125,1991.742338180542,2086.23272895813
+Cortland Belgate,1x1,2024-11-20,"1,360",Baseline Rent Accepted,leased 92%,Melissa Jones,2024-11-21,1335.0408536949935,1302.9876310387435,1367.094198421556
+Cortland Scottsdale Mountain,1x1,2024-11-21,"1,575",Other Action taken (see comment),,Joshua Bivens,2024-11-22,1619.7344563802083,1582.5369466145833,1656.9319661458333
+Avington Park at Fossil Creek,2x2,2024-12-11,"1,658",Other Action taken (see comment),Making $1 change to move from YS to RMP,Jason Halpert,2024-12-12,1594.0703549592392,1555.4332699983017,1632.7074399201767
+Cortland Ridglea - Phase 2,1x1,2024-12-11,"1,329",Other Action taken (see comment),Making $1 change to move from YS to RMP,Jason Halpert,2024-12-12,1260.5281311439362,1231.0099426673737,1290.0463196204987
+Cortland Oleander - Phase 1,0x1,2024-12-19,"1,635",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-20,1564.6536187065972,1527.5303276909722,1601.7769097222222
+Cortland Watermark,1x1,2024-12-19,"1,445",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-20,1377.7629076086957,1344.8453050696332,1410.6805101477582
+Cortland Midtown East Phase 1 - Vue 64,2x2,2024-12-30,"1,750",Baseline Rent Accepted,leased 89%,Melissa Jones,2024-12-31,1755.8189851054995,1715.154800535187,1796.483169675812
+Cortland Park 83,3x2,2024-12-04,"2,050",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-05,1927.5953002929687,1882.0616455078125,1973.12890625
+Cortland Ridglea - Phase 2,1x1,2024-12-17,"1,325",Other Action taken (see comment),Less volatile to RR,Jason Halpert,2024-12-18,1260.5295959876862,1231.0114075111237,1290.0477844642487
+Cortland at the Nations,1x1,2024-12-03,"1,744",Other Action taken (see comment),leased 92%,Melissa Jones,2024-12-04,1689.9681396484375,1649.2188720703125,1730.71728515625
+Cortland South End,0x1-C,2024-12-16,"1,546",Strong/High trends do not support rent recommendation,leased 100%,Melissa Jones,2024-12-17,1489.751220703125,1454.8824462890625,1524.6199951171875
+Cortland Walnut Hill,3x2,2024-11-20,"2,512",Other Action taken (see comment),Agree with increase but want best to be under $2500,Jason Halpert,2024-11-21,2588.4945359002977,2532.4725632440477,2644.5165085565477
+Cortland at the Village - Phase 3,2x2,2024-12-17,"1,900",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-18,1852.9688236457257,1810.8615238410382,1895.0761234504132
+Cortland at the Village - Phase 3,0x1,2024-12-08,"1,380",Strong/High trends do not support rent recommendation,,Zack Knab,2024-12-09,1299.7820538776677,1267.8606671589177,1331.7034405964177
+Cortland at P83,3x2,2024-11-21,"2,115",Soft/Low trends do not support rent recommendation,,Joshua Bivens,2024-11-22,2294.896905307112,2240.851983432112,2348.941583041487
+Cortland Inkwell Greenhouse,3x2,2024-12-18,"2,125",Strong/High trends do not support rent recommendation,,Jason Halpert,2024-12-19,2020.289912109375,1972.1526611328125,2068.427177734375
+Cortland NoDa,3x2,2024-12-30,"2,570",Other Action taken (see comment),leased 87.5%,Melissa Jones,2024-12-31,2421.709228515625,2364.32275390625,2479.095703125
+Cortland Duluth - Phase 1C,1x1,2025-01-01,"1,400",Strong/High trends do not support rent recommendation,,Zack Knab,2025-01-02,1343.8782708154965,1314.7544915186215,1373.002172182684
+The Palmer at Las Colinas,1x1,2024-11-19,"1,358",Baseline Rent Accepted,,Jason Halpert,2024-11-20,1344.0291019908168,1313.1761967173793,1374.8821293345668
+Cortland at RTP,1x1,2025-01-13,"1,275",Other Action taken (see comment),"leased 79%, data entry",Melissa Jones,2025-01-14,1211.8229699847343,1185.4180631089484,1238.2278772112968
+Cortland North Haven,3x2,2024-11-21,"2,440",Baseline Rent Accepted,,Jason Halpert,2024-11-22,2479.6419244581652,2419.5276666456652,2539.7559381300402
+Cortland West Nashville,2x2,2024-12-09,"2,363",Baseline Rent Accepted,leased 93%,Melissa Jones,2024-12-10,2368.348876953125,2312.477783203125,2424.22021484375
+Cortland Biltmore Place,3x2,2024-11-25,"2,478",Other Action taken (see comment),,Joshua Bivens,2024-11-26,2420.744873046875,2364.826416015625,2476.66357421875
+Cortland Brighton Bay,3x2,2024-12-19,"2,438",Baseline Rent Accepted,$1 Change for Website Feed,Corinne Smith,2024-12-20,2372.4455217633927,2315.9557756696427,2428.9352678571427
+Cortland Northlake,1x1,2024-11-24,"1,320",Strong/High trends do not support rent recommendation,leased 95%,Melissa Jones,2024-11-25,1232.7337646484375,1205.015380859375,1260.4520263671875
+Cortland Las Colinas,2x2.5,2024-11-19,"2,700",Other Action taken (see comment),"4 unit FP, new unit four months out, smaller reduction",Jason Halpert,2024-11-20,2548.76904296875,2488.7998046875,2608.73828125
+Cortland on Cherry Creek,2x2,2024-11-13,"1,948",Soft/Low trends do not support rent recommendation,,Joshua Bivens,2024-11-14,2029.4659016927083,1981.6817220052083,2077.2500813802085
+The Overlook at Daytona,1x1,2024-12-25,"1,240",Baseline Rent Accepted,-$30 Dec (Lower) - Low F60,Corinne Smith,2024-12-26,1262.487943761489,1240.4790326286766,1284.496732823989
+Cortland Cap Hill,0x1,2025-01-12,"1,735",Other Action taken (see comment),held course,Joshua Bivens,2025-01-13,1706.2222493489583,1666.4624837239583,1745.9818929036458
+Cortland Belgate,3x2,2025-01-13,"1,906",Other Action taken (see comment),"leased 96%, data entry",Melissa Jones,2025-01-14,1945.0951303335337,1897.4341195913462,1992.7561410757212
+Cortland Biltmore,0x1,2024-11-13,"2,012",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,1718.291748046875,1678.70556640625,1757.8779296875
+Cortland North Tucson,3x2,2024-11-21,"2,065",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-22,1993.5809326171875,1943.897705078125,2043.2642517089844
+Cortland Rosslyn - Phase 1,1x2,2024-11-19,"3,710",Baseline Rent Accepted,leased 91%,Melissa Jones,2024-11-20,3686.209650213068,3602.0658735795455,3770.3534712357955
+Cortland Rosslyn - Phase 1,2x2,2024-11-19,"4,850",Strong/High trends do not support rent recommendation,leased 94%,Melissa Jones,2024-11-20,4545.060374133992,4444.509590580778,4645.611641362028
+Cortland Bowery,2x2,2025-01-13,"2,037",Strong/High trends do not support rent recommendation,Dec $30; 3 apps T7.,Corinne Smith,2025-01-14,1960.2598802971117,1915.954131155303,2004.565703420928
+Cortland Hilliard,1x1,2024-12-29,"1,254",Baseline Rent Accepted,leased 87.5%,Melissa Jones,2024-12-30,1253.9903564453125,1224.128173828125,1283.8526611328125
+The Overlook at Daytona,3x2,2024-12-25,"1,838",Baseline Rent Accepted,-$53 Dec - 1 vacant. Still is pos tradeout.,Corinne Smith,2024-12-26,1813.2818254743304,1780.896205357143,1845.667445591518
+Cortland Brighton Bay,2x1,2024-12-19,"2,061",Other Action taken (see comment),$1 Change for Website Feed,Corinne Smith,2024-12-20,1979.4318673270088,1931.7942940848213,2027.0695234026227
+Cortland at New Albany,1x1,2024-11-24,"1,421",Baseline Rent Accepted,leased 87%,Melissa Jones,2024-11-25,1421.2017822265625,1385.9217529296875,1456.4818115234375
+The Addison at Sandy Springs,2x1,2024-11-25,"1,375",Strong/High trends do not support rent recommendation,,Zack Knab,2024-11-26,1306.71923828125,1274.913818359375,1338.5247802734375
+Vistas at Hackberry Creek,2x1,2024-12-11,"1,469",Other Action taken (see comment),Making $1 change to move from YS to RMP,Jason Halpert,2024-12-12,1377.8007114955358,1344.1548374720983,1411.4467075892858
+Cortland M-Line - Phase 1,2x2,2024-12-11,"3,366",Other Action taken (see comment),Making $1 change to move from YS to RMP,Jason Halpert,2024-12-12,3288.9010225183824,3215.0387178308824,3362.7633272058824
+Abbie Lakes,2x2,2024-11-13,"1,300",Other Action taken (see comment),leased 91%,Melissa Jones,2024-11-14,1241.3497663225446,1211.354038783482,1271.3456159319196
+The Bend at Broad,2x1,2024-11-10,"1,165",Other Action taken (see comment),leased 94%,Melissa Jones,2024-11-11,1221.265409029447,1191.239774263822,1251.2909217247595
+Reserve at Abbie Lakes,2x2,2024-12-29,"1,417",Other Action taken (see comment),leased 96%,Melissa Jones,2024-12-30,1358.751220703125,1325.157470703125,1392.3450927734375
+Island,1x1,2025-01-13,"1,692",Baseline Rent Accepted,Inc $23 (Opt),Corinne Smith,2025-01-14,1692.1568254743304,1650.1744035993304,1734.139369419643
+Cortland Midtown East Phase 2 - Avenues,2x2,2024-12-09,"1,735",Other Action taken (see comment),leased 90%,Melissa Jones,2024-12-10,1620.7919174877566,1583.219773933069,1658.3639389721316
+Cortland on Blake,2x1,2025-01-13,"1,984",Other Action taken (see comment),held,Joshua Bivens,2025-01-14,2037.4278738839287,1990.1439383370537,2084.7117876325333
+Portofino Place 1,3x2,2024-12-19,"2,807",Other Action taken (see comment),$1 Change for Web Feed,Corinne Smith,2024-12-20,2801.456787109375,2739.85791015625,2863.0556640625
+Cortland Midtown East Phase 2 - Avenues,1x1,2024-12-30,"1,450",Strong/High trends do not support rent recommendation,leased 94%,Melissa Jones,2024-12-31,1348.0817819514746,1318.4518991389746,1377.7116647639746
+Cortland Congress Park,2x2,2024-11-13,"2,644",Known product issue,,Joshua Bivens,2024-11-14,2600.0702023973654,2537.7130246629904,2662.4273801317404
+Cortland North Tucson,2x1,2024-11-13,"1,602",Low lead volume,,Joshua Bivens,2024-11-14,1566.4886881510417,1528.2118326822917,1604.7655436197917
+Cortland North Tucson,2x1,2024-11-13,"1,602",Low lead volume,,Joshua Bivens,2024-11-14,1566.4886881510417,1528.2118326822917,1604.7655436197917
+Cortland Westminster,2x1,2025-01-13,"2,003",Other Action taken (see comment),push rate ro RR $53,Joshua Bivens,2025-01-14,1865.8286946614583,1819.7663167317708,1911.8910725911458
+Cortland Westminster,2x2,2025-01-13,"2,134",Other Action taken (see comment),held,Joshua Bivens,2025-01-14,2071.066982053361,2020.5025289283608,2121.631435178361
+Cortland on Cherry Creek,2x1,2025-01-12,"1,861",Other Action taken (see comment),held,Joshua Bivens,2025-01-13,1826.0851236979167,1781.8965250651042,1870.2737223307292
+Cortland Vera Sanford,1x1,2024-11-12,"1,600",Baseline Rent Accepted,,Melissa Jones,2024-11-13,1608.6608503578352,1573.6241071937727,1643.6975935218977
+Cortland Independence,1x1,2024-12-09,"1,784",Baseline Rent Accepted,-$32 Dec (upper),Corinne Smith,2024-12-10,1741.171659029447,1698.257840670072,1784.0855994591345
+Cortland Congress Park,1x1,2025-01-13,"1,895",Other Action taken (see comment),held,Joshua Bivens,2025-01-14,1801.706713251707,1759.5359358587184,1843.877611689207
+Cortland South End,1x1-R,2025-01-13,"1,825",Other Action taken (see comment),"leased 94%, data entry",Melissa Jones,2025-01-14,1886.6805627893518,1842.866238064236,1930.4947699652778
+Cortland on Orange,2x2.5,2025-01-13,"3,115",Other Action taken (see comment),Rate Push for Feed (No Change),Corinne Smith,2025-01-14,3004.0537109375,2953.1025390625,3055.005126953125
+Cortland Hunters Creek,1x1,2025-01-06,"1,592",Low lead conversion,Dec -$20,Corinne Smith,2025-01-07,1546.9590126226756,1513.0959755133006,1580.8220497320506
+Cortland One Twenty One,2x2,2024-12-15,"1,751",Other Action taken (see comment),Test -$5,Ruchi Naik,2024-12-16,1691.3081777144453,1651.0381581831953,1731.5780751753828
+Cortland on Cherry Creek,3x2,2025-01-12,"2,630",Baseline Rent Accepted,held,Joshua Bivens,2025-01-13,2652.398871527778,2587.033393012153,2717.764594184028
+Cortland at West Village - Phase 1,2x2,2025-01-05,"3,325",Other Action taken (see comment),Adding a special and lifting rents,Jason Halpert,2025-01-06,3188.0615456321025,3112.3169167258525,3263.8061745383525
+Cortland North Tucson,3x2,2024-11-13,"2,065",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-11-14,1993.5809326171875,1943.897705078125,2043.2642517089844
+Cortland Brighton Bay,2x2,2024-12-17,"2,302",Baseline Rent Accepted,-$103 dec,Corinne Smith,2024-12-18,2250.0458762428975,2197.7067635276103,2302.3849875710225
+Cortland Riverview,1x1,2024-12-17,"1,771",Baseline Rent Accepted,$28 inc,Corinne Smith,2024-12-18,1807.1363131940857,1770.7060153425232,1843.5666100368028
+Cortland at Fredericksburg,2x2,2024-12-15,"1,660",Baseline Rent Accepted,,Jason Halpert,2024-12-16,1645.2890548018722,1610.0864180831222,1680.4916915206222
+Cortland Avion Shadow Creek,3x2,2025-01-05,"2,255",Baseline Rent Accepted,,Jason Halpert,2025-01-06,2236.932391826923,2184.273456280048,2289.591327373798
+Cortland at Fredericksburg,2x2,2024-12-18,"1,670",Baseline Rent Accepted,,Jason Halpert,2024-12-19,1639.4778975753097,1604.4205245284347,1674.5352706221847
+Cortland East Cobb,1x1,2024-09-15,"1,560",Soft/Low trends do not support rent recommendation,,Zack Knab,2024-09-16,1639.9105939435528,1603.6110333966778,1676.2101544904278
+Abbie Lakes,2x1,2024-09-18,"1,200",Low lead conversion,F90 92%,Melissa Jones,2024-09-19,1297.4628266834077,1265.5946626209077,1329.3308686755952
+Cortland Cotswold,2x1,2024-09-02,"1,455",Other Action taken (see comment),"F90 93%, less drastic decrease",Melissa Jones,2024-09-03,1373.771218692555,1340.379128848805,1407.163308536305
+Cortland Falls River,2x1,2024-10-24,"1,410",Strong/High trends do not support rent recommendation,leased 97%,Melissa Jones,2024-10-25,1339.6962754991318,1306.7211778428818,1372.6712510850693
+Cortland North Brookhaven,3x2,2024-09-22,"2,650",Soft/Low trends do not support rent recommendation,,Zack Knab,2024-09-23,2742.6152692522323,2675.3848005022323,2809.8459821428573
+Cortland Dublin,1x1,2024-10-20,"1,357",Baseline Rent Accepted,leased 96%,Melissa Jones,2024-10-21,1357.2395426432292,1324.1079508463542,1390.3710123697917
+Cortland Ridglea - Phase 1,2x2,2024-11-17,"1,638",Baseline Rent Accepted,,Jason Halpert,2024-11-18,1601.158018530869,1564.1901230230565,1638.126036108994
+Cortland Ridglea - Phase 1,2x2,2024-11-17,"1,629",Baseline Rent Accepted,,Jason Halpert,2024-11-18,1601.158018530869,1564.1901230230565,1638.126036108994
+Cortland Oleander - Phase 2,1x1,2024-10-01,"1,685",Strong/High trends do not support rent recommendation,,Zack Knab,2024-10-02,1626.9998379896313,1590.2171231458813,1663.7825528333813
+Cortland Bear Creek,1x1,2024-10-31,"1,555",Other Action taken (see comment),Low site occ,Jason Halpert,2024-11-01,1631.8175455729167,1594.8199869791667,1668.8151041666667
+Cortland at New Albany,2x1,2024-10-20,"1,745",Strong/High trends do not support rent recommendation,leased 97%,Melissa Jones,2024-10-21,1659.3617350260417,1618.0443522135417,1700.6791178385417
+Jefferson Chase,2x2,2024-11-03,"1,444",Baseline Rent Accepted,leased 92%,Melissa Jones,2024-11-04,1487.6432373046875,1451.03837890625,1524.248095703125
+Abbie Lakes,1x1,2024-10-02,"1,168",Baseline Rent Accepted,F90 96%,Melissa Jones,2024-10-03,1168.4711274646577,1139.8278169177827,1197.1144380115327
+Cortland West Nashville,1x1,2024-09-16,"1,800",Baseline Rent Accepted,leased 95%,Melissa Jones,2024-09-17,1817.1823429715805,1773.249115432518,1861.1154484403305
+Cortland Belgate,2x2,2024-10-31,"1,615",Baseline Rent Accepted,leased 90%,Melissa Jones,2024-11-01,1636.3316083021566,1597.2173504896566,1675.445988184969
+Abbie Lakes,2x2,2024-09-18,"1,252",Baseline Rent Accepted,F90 93%,Melissa Jones,2024-09-19,1231.5497174944196,1201.798863002232,1261.3004499162946
+Cortland Windward,2x2,2024-10-02,"1,925",Soft/Low trends do not support rent recommendation,,Zack Knab,2024-10-03,2000.0564478824012,1952.448137785259,2047.6648463199012
+Cortland Falls River,3x2,2024-10-28,"1,815",Baseline Rent Accepted,leased 89%,Melissa Jones,2024-10-29,1843.2992989676338,1800.0806710379463,1886.5179268973213
+Cortland Cotswold,2x1,2024-08-29,"1,500",Strong/High trends do not support rent recommendation,"F90 93%, less drastic decrease",Melissa Jones,2024-08-30,1373.771218692555,1340.379128848805,1407.163308536305
+Jefferson Chase,3x2.5,2024-10-23,"1,868",Low lead conversion,leased 98%,Melissa Jones,2024-10-24,1915.9208577473958,1868.0670979817708,1963.7744954427083
+Jefferson Chase,3x2.5,2024-10-23,"1,868",Baseline Rent Accepted,leased 98%,Melissa Jones,2024-10-24,1915.9208577473958,1868.0670979817708,1963.7744954427083
+Cortland Northlake,2x2,2024-10-06,"1,590",Strong/High trends do not support rent recommendation,leased 94%,Melissa Jones,2024-10-07,1490.2716878255208,1459.7138264973958,1520.8295491536458
+Sunbury Ridge,1x1,2024-09-18,"1,106",Low lead conversion,F90 92%,Melissa Jones,2024-09-19,1149.9461669921875,1123.172607421875,1176.7198486328125
+Cortland NoDa,1x1,2024-11-07,"1,540",Soft/Low trends do not support rent recommendation,leased 92%,Melissa Jones,2024-11-08,1652.7552333184851,1615.4334559747351,1690.0771327325476
+Cortland Duluth - Phase 1C,2x1,2024-09-16,"1,555",Baseline Rent Accepted,,Zack Knab,2024-09-17,1553.1194807525374,1520.3763166900374,1585.8626448150374
+Cortland League City,2x1,2024-11-07,"1,560",Other Action taken (see comment),Less volatile reduction,Jason Halpert,2024-11-08,1446.8812662760417,1414.7665201822917,1478.9960123697917
+Lake`s Edge,1x1,2024-10-23,"1,135",Baseline Rent Accepted,leased 97.5%,Melissa Jones,2024-10-24,1135.0501708984375,1107.2442626953125,1162.8560791015625
+Reserve at Abbie Lakes,2x1,2024-09-15,"1,190","Cashflow strategy,  Elevated occupancy goal v. budget",leased 94%,Melissa Jones,2024-09-16,1246.3357476128472,1215.5140923394097,1277.1572808159722
+Cortland 3131,1x1,2024-11-03,"1,460",Baseline Rent Accepted,,Zack Knab,2024-11-04,1433.0530128670698,1399.0344581795698,1467.0715675545698
+Cortland at RTP,2x2,2024-10-14,"1,544",Known product issue,leased 84%,Melissa Jones,2024-10-15,1535.799893465909,1498.991543856534,1572.608243075284
+Cortland Falls River,2x1,2024-08-29,"1,450",Known people issue,F90 94%,Melissa Jones,2024-08-30,1469.4545762803818,1433.2355821397568,1505.6735704210068
+Cortland Lakemont,2x2,2024-11-07,"1,668",Other Action taken (see comment),Changed best rate for marketing,Jason Halpert,2024-11-08,1723.7865164620537,1683.1873953683037,1764.3856375558037
+Cortland Duluth - Phase 1C,1x1,2024-09-08,"1,410",Baseline Rent Accepted,,Zack Knab,2024-09-09,1433.5525470890411,1402.1738849796661,1464.9313312687286
+Cortland Research Park,1x1,2024-11-04,"1,175",Soft/Low trends do not support rent recommendation,leased 91%,Melissa Jones,2024-11-05,1196.9783935546875,1168.249267578125,1225.70751953125
+Cortland Windward,2x2,2024-09-22,"1,940",Baseline Rent Accepted,,Zack Knab,2024-09-23,1885.7499293277137,1840.9993189761512,1930.5006288227282
+Cortland Sunbury,2x2.5,2024-09-02,"1,690",Strong/High trends do not support rent recommendation,F90 94%,Melissa Jones,2024-09-03,1607.126953125,1566.94873046875,1647.3050537109375
+Cortland Allen Station,3x2,2024-12-22,"2,553",Baseline Rent Accepted,($6),Ruchi Naik,2024-12-23,2559.1357421875,2497.2197265625,2621.051513671875
+Cortland Midtown East Phase 1 - Vue 64,3x2,2024-08-29,"2,230",Soft/Low trends do not support rent recommendation,F90 74%,Melissa Jones,2024-08-30,2347.23681640625,2292.430908203125,2402.042724609375
+Cortland Whitehall,2x2,2024-10-21,"1,635",Other Action taken (see comment),"leased 94%, waiting on apps to be approved for full increase",Melissa Jones,2024-10-22,1693.3044569227432,1653.2733289930557,1733.3357069227432
+Cortland Peachtree Corners,1x1,2024-10-01,"1,590",Baseline Rent Accepted,,Zack Knab,2024-10-02,1587.3417145985338,1551.4560944813463,1623.2273347157213
+Tramore Village,3x2,2024-09-15,"1,900",Soft/Low trends do not support rent recommendation,,Zack Knab,2024-09-16,1958.4620635986328,1913.2567230224608,2003.6673156738282
+Cortland Cary - Phase 2,2x2,2024-11-07,"1,760",Baseline Rent Accepted,leased 90%,Melissa Jones,2024-11-08,1775.4724093662219,1733.5729953037219,1817.3718234287219
+Cortland at the Hill,1x1,2024-09-08,"1,825",Baseline Rent Accepted,,Zack Knab,2024-09-09,1835.1105569622473,1790.8180852650169,1879.4029197464447
+Cortland Sugar Land,3x2,2024-11-07,"2,300",Baseline Rent Accepted,,Jason Halpert,2024-11-08,2319.891750169837,2263.052150560462,2376.731349779212
+Cortland 3131,2x2,2024-11-03,"1,825",Baseline Rent Accepted,,Zack Knab,2024-11-04,1866.85228961447,1821.7244819972825,1911.9800972316575
+Cortland Duluth - Phase 2A,2x2,2024-10-01,"1,670",Strong/High trends do not support rent recommendation,,Zack Knab,2024-10-02,1613.4876333383413,1574.0840688852163,1652.8911977914663
+Cortland Rosslyn - Phase 2,0x1,2024-11-07,"2,425",Baseline Rent Accepted,leased 94%,Melissa Jones,2024-11-08,2389.437146245217,2333.604138432717,2445.269909917092
+Sunbury Ridge,1x1,2024-10-30,"1,125",Low lead conversion,leased 91%,Melissa Jones,2024-10-31,1175.0467529296875,1147.6456298828125,1202.4478759765625
+Jefferson Chase,1x1,2024-09-02,"1,038",Soft/Low trends do not support rent recommendation,F90 90%,Melissa Jones,2024-09-03,1119.4154459635417,1091.9092203776042,1146.9216715494792
+Cortland Dublin,1x1,2024-10-30,"1,297",Baseline Rent Accepted,leased 92%,Melissa Jones,2024-10-31,1263.9637044270833,1233.1901448567708,1294.7372639973958
+Cortland Sunbury,2x2,2024-09-15,"1,650",Other Action taken (see comment),"leased 92%, staleness",Melissa Jones,2024-09-16,1632.9079182942708,1593.1997884114583,1672.6160481770833
+Cortland Bull City,1x1,2024-10-21,"1,681",Baseline Rent Accepted,leased 91%,Melissa Jones,2024-10-22,1664.5322378522399,1626.3546255475524,1702.7098501569274
+Cortland Windward,1x1,2024-09-22,"1,600",Soft/Low trends do not support rent recommendation,,Zack Knab,2024-09-23,1646.218662315691,1606.9778175891286,1685.4595070422536
+Cortland Midtown East Phase 1 - Vue 64,2x2,2024-09-03,"1,815",Strong/High trends do not support rent recommendation,F90 92%,Melissa Jones,2024-09-04,1750.1829805148868,1709.5021943820743,1790.8637647253322
+Reserve at Abbie Lakes,2x1,2024-10-09,"1,235",Baseline Rent Accepted,leased 94%,Melissa Jones,2024-10-10,1259.4988335503472,1228.3480767144097,1290.6494683159722
+Cortland University City,1x1,2024-10-21,"1,300",Known product issue,leased 85%,Melissa Jones,2024-10-22,1230.85569470994,1201.121563850565,1260.589825569315
+Cortland East Cobb,2x2,2024-09-12,"1,995",Baseline Rent Accepted,,Zack Knab,2024-09-13,2112.4885615596063,2060.4634150752313,2164.5137080439813
+Jefferson Chase,3x2.5,2024-09-02,"1,885",Soft/Low trends do not support rent recommendation,F90 92%,Melissa Jones,2024-09-03,1950.8432210286458,1902.1164143880208,1999.5700276692708
+Cortland Hilliard,1x1,2024-09-29,"1,345",Low lead conversion,F90 95%,Melissa Jones,2024-09-30,1392.9140625,1359.5787353515625,1426.2493896484375
+Cortland at New Albany,1x1,2024-10-09,"1,540",Strong/High trends do not support rent recommendation,leased 97%,Melissa Jones,2024-10-10,1421.2017822265625,1385.9217529296875,1456.4818115234375
+Cortland at RTP,2x2,2024-09-19,"1,520",Baseline Rent Accepted,F90 86%,Melissa Jones,2024-09-20,1547.5636874112215,1510.461270419034,1584.6662264737215
+Cortland Cary - Phase 2,2x2,2024-09-19,"1,878",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-09-20,1878.2755099521594,1833.8060275302844,1922.7451144443469
+Reserve at Abbie Lakes,2x1,2024-10-23,"1,220",Low lead conversion,leased 94%,Melissa Jones,2024-10-24,1261.0282524956597,1229.8394097222222,1292.2172173394097
+Abbie Lakes,1x1,2024-09-02,"1,179",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-09-03,1179.3145112537202,1150.4000825427827,1208.2288178943452
+Cortland North Dallas,2x2,2024-09-12,"2,054",Other Action taken (see comment),already low and not much availability,Ruchi Naik,2024-09-13,1974.8091389973958,1927.018115234375,2022.6002604166667
+Sunbury Ridge,2x1.5,2024-10-06,"1,463",Low lead conversion,leased 93%,Melissa Jones,2024-10-07,1543.8489757719494,1507.7378917875744,1579.9600597563244
+Cortland Cary - Phase 1,1x1,2024-08-29,"1,485",Strong/High trends do not support rent recommendation,"F90 92%, net leased 94%",Melissa Jones,2024-08-30,1409.4115742384786,1377.139723652541,1441.6835468947286
+Cortland Oleander - Phase 1,1x1,2024-11-04,"1,730",Baseline Rent Accepted,,Zack Knab,2024-11-05,1698.470934921436,1660.077380233936,1736.8646116792486
+Cortland at Twin Creeks,1x1,2024-09-12,"1,367",Soft/Low trends do not support rent recommendation,hold,Ruchi Naik,2024-09-13,1442.4896240234375,1408.37744140625,1476.6019287109375
+Cortland University North,2x2,2024-10-24,"1,390",Soft/Low trends do not support rent recommendation,leased 91.5%,Melissa Jones,2024-10-25,1452.6822533700981,1417.7940697763481,1487.5703148935356
+Abbie Lakes,2x1,2024-09-02,"1,235",Baseline Rent Accepted,F90 90.5%,Melissa Jones,2024-09-03,1226.6951264880952,1196.5961274646577,1256.7940034412202
+Cortland Peachtree Corners,1x1,2024-10-30,"1,640",Baseline Rent Accepted,First rate change,Zack Knab,2024-10-31,1673.7892243641588,1635.7424714344713,1711.8360993641588
+Cortland University North,1x1,2024-10-14,"1,250",Low lead conversion,leased 94%,Melissa Jones,2024-10-15,1313.7574055989583,1282.3795979817708,1345.1352132161458
+Cortland at Twin Creeks,2x2,2024-09-12,"1,952",Baseline Rent Accepted,"within prospect price range, below ren roll; funnel issues hold for another week we do have high exposure",Ruchi Naik,2024-09-13,1984.8042986834491,1938.4734881365741,2031.13506854022
+The Bend at Broad,1x1,2024-11-03,"1,053",Baseline Rent Accepted,leased 90%,Melissa Jones,2024-11-04,1024.0127088758682,998.9366997612847,1049.0886773003472
+Cortland at West Village - Phase 1,1x1,2024-11-03,"2,300",Baseline Rent Accepted,,Jason Halpert,2024-11-04,2376.622083599065,2323.16139023969,2430.082532817815
+Cortland Decatur East,2x2,2024-11-03,"2,275",Strong/High trends do not support rent recommendation,,Zack Knab,2024-11-04,2167.628658588116,2117.986065204327,2217.271465594952
+Cortland Duluth - Phase 1C,2x2,2024-10-02,"1,650",Baseline Rent Accepted,,Zack Knab,2024-10-03,1686.9483229218336,1651.4536940155836,1722.4429518280836
+The Addison at Sandy Springs,2x2,2024-11-05,"1,470",Strong/High trends do not support rent recommendation,,Zack Knab,2024-11-06,1407.4101634306066,1374.2461009306066,1440.5742259306066
+Cortland MacArthur,1x1,2024-08-11,"1,598",Other Action taken (see comment),added a cocnession,Ruchi Naik,2024-08-12,1484.6541676240809,1449.7698902803309,1519.5385670381434
+Cortland Watermark,2x2,2024-11-05,"1,875",Baseline Rent Accepted,,Zack Knab,2024-11-06,1833.811884765625,1791.18859375,1876.43517578125
+Cortland Dublin,2x2,2024-10-06,"1,590",Baseline Rent Accepted,leased 93%,Melissa Jones,2024-10-07,1599.7890218098958,1562.0338948567708,1637.5441487630208
+Cortland Sugarloaf,3x2,2024-09-17,"2,100",Known product issue,,Zack Knab,2024-09-18,2111.6166875930057,2060.4750860305057,2162.7582891555057
+Cortland Decatur East,2x2,2024-09-30,"2,275",Baseline Rent Accepted,,Zack Knab,2024-10-01,2284.185283954327,2231.628887469952,2336.741924579327
+Cortland Bull City,1x1,2024-10-07,"1,581",Baseline Rent Accepted,leased 91%,Melissa Jones,2024-10-08,1575.9716909772399,1540.0081900006774,1611.9353140241149
+Jefferson Chase,2x2,2024-10-02,"1,410",Other Action taken (see comment),"F90 96%, need imm occ",Melissa Jones,2024-10-03,1477.702685546875,1441.3463623046875,1514.0590087890625
+Abbie Lakes,2x1,2024-10-09,"1,284",Baseline Rent Accepted,leased 93%,Melissa Jones,2024-10-10,1315.8980073474702,1283.5690278552827,1348.2269868396577
+Cortland East Cobb,2x2,2024-10-02,"1,880",Soft/Low trends do not support rent recommendation,I do not understand why the suggestion is +200,Zack Knab,2024-10-03,1992.4885615596065,1943.4634150752315,2041.5137080439815
+Cortland East Cobb,2x2,2024-10-02,"1,880",Soft/Low trends do not support rent recommendation,I do not understand why the suggestion is +200,Zack Knab,2024-10-03,1992.4885615596065,1943.4634150752315,2041.5137080439815
+Cortland Rosslyn - Phase 1,1x1,2024-11-07,"3,100",Baseline Rent Accepted,leased 90%,Melissa Jones,2024-11-08,3084.1180389656506,3013.8880584969006,3154.3480194344006
+Cortland Powell,2x2,2024-07-23,"1,824",Baseline Rent Accepted,F90 96%,Melissa Jones,2024-07-24,1824.4389776932567,1785.287214740954,1863.5907406455592
+Cortland Bear Creek,2x1,2024-11-05,"1,800",Other Action taken (see comment),Asking rent not aligning with baseline ask,Jason Halpert,2024-11-06,1669.0216619318182,1629.5631658380682,1708.4801580255682
+Cortland Bear Creek,2x1,2024-11-05,"1,900",Other Action taken (see comment),Asking rent not aligning with baseline ask,Jason Halpert,2024-11-06,1669.0216619318182,1629.5631658380682,1708.4801580255682
+Cortland 3131,2x2,2024-10-01,"1,865",Baseline Rent Accepted,,Zack Knab,2024-10-02,1866.27074664572,1821.15746539572,1911.3841499660325
+Brooksedge,2x1.5,2024-08-11,"1,261",Baseline Rent Accepted,F90 91.5%,Melissa Jones,2024-08-12,1287.8584158761162,1256.3098318917412,1319.4069998604912
+Cortland at National Landing,1x1,2024-10-21,"2,339",Baseline Rent Accepted,leased 91%,Melissa Jones,2024-10-22,2290.6894415416855,2242.4184677235403,2338.9602157704153
+Cortland Powell,2x2.5,2024-07-23,"1,994",Other Action taken (see comment),"F90 94%, concession in place on B4s",Melissa Jones,2024-07-24,2025.3590139180671,1980.1263479024421,2070.591778410583
+Cortland Wren Northlake - Phase 1,2x2,2024-10-14,"1,615",Baseline Rent Accepted,leased 87.5%,Melissa Jones,2024-10-15,1606.79345703125,1568.61572265625,1644.9710693359375
+Cortland at National Landing,2x1,2024-10-31,"2,830",Baseline Rent Accepted,leased 90%,Melissa Jones,2024-11-01,2769.9684244791665,2709.3734537760415,2830.5633951822915
+Cortland North Dallas,2x2,2024-09-15,"2,054",Other Action taken (see comment),just leased 1 unit- hold,Ruchi Naik,2024-09-16,2091.883268229167,2041.1654459635417,2142.6012369791665
+Cortland East Cobb,2x1,2024-10-01,"1,730",Baseline Rent Accepted,,Zack Knab,2024-10-02,1735.6065673828125,1692.6383056640625,1778.5748291015625
+Lake`s Edge,1x1,2024-09-30,"1,020",Soft/Low trends do not support rent recommendation,F90 89%,Melissa Jones,2024-10-01,1098.755738067627,1071.8571853637695,1125.6544189453125
+Cortland NoDa,2x2,2024-11-04,"2,060",Baseline Rent Accepted,leased 91%,Melissa Jones,2024-11-05,2107.7377281967474,2060.3109703842474,2155.1646902901784
+Jefferson Chase,2x2,2024-10-13,"1,445",Baseline Rent Accepted,leased 95%,Melissa Jones,2024-10-14,1481.44267578125,1444.9928466796875,1517.8925048828125
+Cortland Rosslyn - Phase 2,0x1,2024-09-03,"2,590",Strong/High trends do not support rent recommendation,F90 96%,Melissa Jones,2024-09-04,2383.989880620217,2328.293103276467,2439.686657963967
+Cortland Falls River,1x1,2024-10-21,"1,218",Baseline Rent Accepted,leased 90%,Melissa Jones,2024-10-22,1184.0184733072917,1156.0847574869792,1211.9523111979167
+Reserve at Abbie Lakes,2x1.5,2024-08-11,"1,345",Strong/High trends do not support rent recommendation,F90 92%,Melissa Jones,2024-08-12,1253.9701741536458,1223.1042073567708,1284.8361409505208
+Cortland Northlake,2x2.5,2024-10-02,"1,740",Strong/High trends do not support rent recommendation,F90 98%,Melissa Jones,2024-10-03,1656.7006790726273,1618.8410599320023,1694.5602982132523
+Cortland Highcroft,3x2,2024-10-14,"2,064",Baseline Rent Accepted,leased 94%,Melissa Jones,2024-10-15,2015.0267404409556,1966.2471571702224,2063.806192251352
+Cortland Bull City,0x1,2024-10-21,"1,345",Baseline Rent Accepted,leased 87%,Melissa Jones,2024-10-22,1374.6445640005716,1340.1245444693216,1409.164705602134
+Cortland East Cobb,2x1,2024-09-12,"1,780",Baseline Rent Accepted,,Zack Knab,2024-09-13,1758.825927734375,1715.277099609375,1802.374755859375
+Cortland Riverside,1x1,2024-11-05,"1,435",Baseline Rent Accepted,Dispo/concession change,Jason Halpert,2024-11-06,1412.323831255008,1380.9885041065704,1443.659036333133
+Cortland at the Hill,1x1,2024-08-20,"1,830",Baseline Rent Accepted,,Zack Knab,2024-08-21,1815.0570989368919,1771.2660745403723,1858.8482322464447
+Cortland Bellevue,1x1,2024-08-05,"1,670",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-08-06,1671.2388567243304,1630.8418840680804,1711.635951450893
+Cortland Cotswold,1x1,2024-10-14,"1,290",Baseline Rent Accepted,leased 93%,Melissa Jones,2024-10-15,1216.827845982143,1192.8536028180804,1240.8020891462054
+Cortland Olde Raleigh,1x1,2024-08-19,"1,373",Baseline Rent Accepted,F90 98.5%,Melissa Jones,2024-08-20,1353.9244456571691,1321.9256663602941,1385.9233470243566
+Jefferson Chase,3x2,2024-08-28,"1,645",Baseline Rent Accepted,F90 86%,Melissa Jones,2024-08-29,1655.8235418146307,1614.8512517755682,1696.7958318536932
+Cortland Falls River,3x2,2024-08-05,"1,938",Baseline Rent Accepted,F90 95%,Melissa Jones,2024-08-06,1937.9598214285713,1892.3746163504463,1983.5450265066963
+Cortland University City,1x1,2024-08-05,"1,295",Known product issue,F90 90%,Melissa Jones,2024-08-06,1207.69212049119,1178.537091194315,1236.8472718583776
+Jefferson Chase,3x2,2024-08-21,"1,645",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-08-22,1782.0139715021307,1737.8868963068182,1826.1409246271307
+Attiva Peachtree,2x2,2024-08-28,"2,500",Baseline Rent Accepted,,Zack Knab,2024-08-29,2520.20947265625,2460.668212890625,2579.75048828125
+Cortland Falls River,2x2,2024-08-05,"1,585",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-08-06,1619.0238037109375,1580.8543701171875,1657.193115234375
+Cortland Congress Park,1x1,2024-08-20,"2,035",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-08-21,2034.8954770384717,1987.1155287798713,2082.6755063353467
+Cortland Dublin,2x2,2024-08-28,"1,600",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-08-29,1575.8641357421875,1538.690185546875,1613.0380859375
+Sunbury Ridge,1x1,2024-08-28,"1,132",Baseline Rent Accepted,F90 87%,Melissa Jones,2024-08-29,1131.533447265625,1105.2200927734375,1157.8468017578125
+Cortland Belgate,1x1,2024-08-05,"1,459",Baseline Rent Accepted,F90 99%,Melissa Jones,2024-08-06,1424.677694515306,1390.3833829918685,1458.971883968431
+Cortland Decatur East,3x2,2024-09-30,"2,700",Baseline Rent Accepted,,Zack Knab,2024-10-01,2699.796515969669,2634.338264016544,2765.254523782169
+Cortland Sunbury,2x2,2024-08-28,"1,659",Low lead conversion,F90 92%,Melissa Jones,2024-08-29,1764.3076985677083,1721.3146565755208,1807.3008626302083
+Cortland Whitehall,2x2,2024-08-19,"1,700",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-08-20,1780.5483534071182,1738.3360731336807,1822.7607557508682
+Cortland Northlake,2x2,2024-08-28,"1,625",Strong/High trends do not support rent recommendation,F90 97%,Melissa Jones,2024-08-29,1465.5755615234375,1435.6142578125,1495.5367431640625
+Cortland NoDa,1x1,2024-08-21,"1,589",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-08-22,1588.7798915216101,1553.0574794122351,1624.5023036309851
+Cortland Cary - Phase 2,2x2,2024-08-21,"1,920",Baseline Rent Accepted,F90 86.5%,Melissa Jones,2024-08-22,1901.2991915927844,1856.2541476474719,1946.3443507505267
+Cortland Cary - Phase 1,1x1,2024-11-07,"1,520",Other Action taken (see comment),leased 89%,Melissa Jones,2024-11-08,1444.3124531447286,1411.168043965041,1477.456862324416
+Lake`s Edge,1x1,2024-08-21,"1,180",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-08-22,1187.8455810546875,1158.7197265625,1216.971435546875
+Cortland at 2534,2x2,2024-08-20,"1,990",Soft/Low trends do not support rent recommendation,,Joshua Bivens,2024-08-21,2020.9873860677083,1971.6710998535157,2070.3037923177085
+Cortland on Cherry Creek,1x1,2024-07-24,"1,831",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-07-25,1832.557662398727,1788.571334273727,1876.5441125940395
+Cortland Gateway Park,2x2,2024-07-24,"2,232",Baseline Rent Accepted,,Joshua Bivens,2024-07-25,2184.582833426339,2132.263009207589,2236.902901785714
+Cortland Cary - Phase 2,3x2,2024-10-14,"2,210",Baseline Rent Accepted,leased 86%,Melissa Jones,2024-10-15,2228.2907366071427,2175.4047502790177,2281.1764787946427
+Cortland Chandler Crossing,3x2,2024-07-24,"2,545",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-07-25,2455.8681640625,2395.940185546875,2515.7958984375
+Cortland Chandler Crossing,3x2,2024-07-24,"2,545",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-07-25,2455.8681640625,2395.940185546875,2515.7958984375
+Cortland University City,3x2,2024-08-01,"1,659",Baseline Rent Accepted,F90 75%,Melissa Jones,2024-08-02,1619.9690483940972,1580.6191948784722,1659.3190239800347
+Cortland Las Colinas,2x2,2024-08-01,"2,220",Soft/Low trends do not support rent recommendation,still need more Occ,Ruchi Naik,2024-08-02,2281.7196451822915,2230.4684150163516,2332.970866831698
+Cortland Cary - Phase 2,3x2,2024-10-07,"2,210",Baseline Rent Accepted,leased 81%,Melissa Jones,2024-10-08,2228.2936662946427,2175.4079241071427,2281.1796526227677
+Cortland Falls River,1x1,2024-08-01,"1,255",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-08-02,1254.8767496744792,1225.1715494791667,1284.5820719401042
+Abbie Lakes,2x2,2024-10-20,"1,350",Baseline Rent Accepted,leased 95%,Melissa Jones,2024-10-21,1329.6356549944196,1297.4327741350446,1361.838657924107
+Cortland Duluth - Phase 2A,1x1,2024-08-28,"1,335",Baseline Rent Accepted,,Zack Knab,2024-08-29,1295.9464401971727,1264.5007614862352,1327.3921189081102
+Cortland Holcomb Bridge,1x1,2024-08-28,"1,460",Baseline Rent Accepted,,Zack Knab,2024-08-29,1463.193603515625,1426.98876953125,1499.3984375
+Reserve at Abbie Lakes,2x1.5,2024-08-18,"1,291",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-08-19,1259.5050862630208,1228.5008138020833,1290.5093587239583
+Jefferson Chase,1x1,2024-08-28,"1,038",Soft/Low trends do not support rent recommendation,F90 87.5%,Melissa Jones,2024-08-29,1117.1075846354167,1089.6590983072917,1144.5561930338542
+Cortland Belgate,2x2,2024-08-28,"1,630",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-08-29,1610.428654200594,1571.9619793959066,1648.8953290052816
+Cortland at 2534,2x2,2024-07-16,"2,076",Soft/Low trends do not support rent recommendation,,Joshua Bivens,2024-07-17,2036.6852213541667,1988.1441284179687,2085.226294962565
+Cortland Wren Northlake - Phase 1,2x2,2024-09-23,"1,625",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-09-24,1665.009033203125,1625.3759765625,1704.64208984375
+Cortland Viridian,0x1,2024-08-13,"1,310",Strong/High trends do not support rent recommendation,,Zack Knab,2024-08-14,1261.26318359375,1230.1065673828125,1292.419677734375
+Cortland at Green Valley,1x1,2024-08-13,"1,715",Soft/Low trends do not support rent recommendation,,Joshua Bivens,2024-08-14,1674.3735319855925,1634.39001147778,1714.357052493405
+Cortland Bull City,1x1,2024-09-23,"1,601",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-09-24,1600.5930288678649,1564.0139273053649,1637.1722525006774
+Cortland at Coalton,1x1,2024-07-16,"1,958",Soft/Low trends do not support rent recommendation,,Joshua Bivens,2024-07-17,2037.5735887096773,1989.3681076213877,2085.7791065503193
+Cortland at Fredericksburg,1x1,2024-07-21,"1,390",Baseline Rent Accepted,,Jason Halpert,2024-07-22,1404.1605525821835,1372.330108246246,1435.990996918121
+Cortland at the Nations,1x1,2024-09-23,"1,727",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-09-24,1768.3585205078125,1725.6495361328125,1811.0673828125
+Cortland Walnut Hill,2x2,2024-07-18,"2,196",Baseline Rent Accepted,,Ruchi Naik,2024-07-19,2165.6089765440743,2118.9475742556015,2212.2705723024765
+Cortland at Twin Creeks,3x2,2024-09-12,"2,181",Other Action taken (see comment),,Ruchi Naik,2024-09-13,2124.5135904947915,2072.0987701416016,2176.9286295572915
+Cortland at Twin Creeks,3x2,2024-09-12,"2,181",Other Action taken (see comment),get immediate into lower price bucket,Ruchi Naik,2024-09-13,2124.5135904947915,2072.0987701416016,2176.9286295572915
+Cortland Bellevue,1x1,2024-07-19,"1,666",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-07-20,1665.8755754743304,1625.612513950893,1706.1385149274554
+Tramore Village,2x2,2024-07-21,"1,610",Baseline Rent Accepted,,Zack Knab,2024-07-22,1584.9045651282793,1547.7857907142168,1622.0233395423418
+Cortland Viridian,2x2,2024-08-22,"2,020",Baseline Rent Accepted,,Zack Knab,2024-08-23,1985.0162062872023,1937.2940383184523,2032.7383742559523
+Battery 3rd Base,1x1,2024-07-21,"2,200",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-22,2133.433056640625,2085.897216796875,2180.9687841796876
+Cortland Cary - Phase 2,1x1,2024-07-15,"1,497",Baseline Rent Accepted,F90 88%,Melissa Jones,2024-07-16,1497.0854056898013,1461.4654105726138,1532.7054008069888
+Cortland Belgate,1x1,2024-09-23,"1,376",Baseline Rent Accepted,F90 97%,Melissa Jones,2024-09-24,1345.2891447106185,1312.979696468431,1377.5987150231185
+Cortland Falls River,2x2,2024-07-19,"1,688",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-07-20,1648.814453125,1609.900390625,1687.728515625
+Cortland Viridian,2x1,2024-07-15,"1,880",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-16,1844.3240966796875,1799.6573486328125,1888.9908447265625
+Cortland Lakemont,1x1,2024-07-21,"1,314",Baseline Rent Accepted,,Jason Halpert,2024-07-22,1301.7609752308238,1271.2120250355113,1332.3099254261363
+Cortland Midtown East Phase 1 - Vue 64,1x1,2024-08-12,"1,466",Other Action taken (see comment),"F90 89.5%, smaller decrease",Melissa Jones,2024-08-13,1385.0331612967111,1353.0723458670236,1416.9938546560861
+Cortland Belgate,2x2,2024-08-12,"1,713",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-08-13,1717.466495997469,1676.3237958021566,1758.609074122469
+Cortland Seventy Seven,1x1,2024-07-26,"1,311",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-07-27,1282.0448011172716,1253.1156018985216,1310.9740003360216
+Cortland Bellevue,2x2,2024-07-26,"2,010",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-07-27,2000.0684957132712,1951.9693746195212,2048.167616807021
+The Addison at Sandy Springs,2x1,2024-08-12,"1,390",Other Action taken (see comment),Large increase in Net leased recently at this pricing,Zack Knab,2024-08-13,1331.26953125,1298.850341796875,1363.6888427734375
+The Addison at Sandy Springs,2x1,2024-08-12,"1,390",Other Action taken (see comment),Large increase in Net leased recently at this pricing,Zack Knab,2024-08-13,1331.26953125,1298.850341796875,1363.6888427734375
+Cortland Lex,1x1,2024-07-30,"1,705",Baseline Rent Accepted,,Zack Knab,2024-07-31,1702.6112467447917,1661.5251871744792,1743.6973063151042
+Cortland Cap Hill,2x2,2024-07-16,"3,164","Cashflow strategy,  Elevated occupancy goal v. budget",,Joshua Bivens,2024-07-17,2872.5481850228657,2806.5760170541157,2938.5203529916157
+Cortland Olde Raleigh,3x2,2024-08-12,"1,852",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-08-13,1855.3223876953125,1809.08935546875,1901.555419921875
+Cortland East Cobb,2x2,2024-08-20,"2,090",Baseline Rent Accepted,,Zack Knab,2024-08-21,2109.5137159559463,2057.5630244502313,2161.4646357783563
+Cortland on Cherry Creek,3x2,2024-08-20,"2,810",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-08-21,2795.511664496528,2726.568305121528,2864.455023871528
+Cortland Walnut Hill,2x2,2024-08-06,"2,251",Baseline Rent Accepted,,Ruchi Naik,2024-08-07,2211.6756015993515,2163.8625879827537,2259.4888340212265
+Cortland at the Nations,1x1,2024-08-12,"1,800",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-08-13,1802.8175048828125,1759.2470703125,1846.387939453125
+Cortland West Nashville,1x1,2024-09-23,"1,790",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-09-24,1811.6029972684555,1767.8092960965805,1855.3966984403305
+Cortland Walnut Hill,3x2,2024-08-06,"2,481",Other Action taken (see comment),have not leased since last increase,Ruchi Naik,2024-08-07,2563.6197800409227,2508.2196335565477,2619.0196823846727
+Cortland Walnut Hill,1x1,2024-08-06,"1,648",Baseline Rent Accepted,,Ruchi Naik,2024-08-07,1637.5088686735733,1602.0689272673233,1672.9486880095108
+Abbie Lakes,1x1,2024-07-17,"1,169",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-07-18,1168.7351655505952,1140.0852632068452,1197.3850678943452
+The Bend at Broad,2x1,2024-08-09,"1,187",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-08-10,1170.200223482572,1141.451200045072,1198.949246920072
+Cortland Falls River,2x2,2024-08-08,"1,595",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-08-09,1598.3038330078125,1560.6524658203125,1635.9552001953125
+Cortland Powell,3x2.5,2024-07-23,"2,301",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-07-24,2248.0283203125,2195.52294921875,2300.53369140625
+Cortland Bull City,0x1,2024-08-12,"1,472",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-08-13,1510.3342612661966,1472.4219077505716,1548.246492711509
+Cortland NoDa,0x1,2024-07-26,"1,450",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-07-27,1433.2513905400815,1399.403856360394,1467.0990467900815
+Cortland Cary - Phase 1,1x1,2024-08-08,"1,450",Strong/High trends do not support rent recommendation,F90 91%,Melissa Jones,2024-08-09,1410.7216328322286,1378.4169453322286,1443.026198261916
+Cortland NoDa,3x2,2024-07-26,"2,655",Baseline Rent Accepted,F90 87.5%,Melissa Jones,2024-07-27,2665.244873046875,2601.77001953125,2728.7197265625
+Cortland Falls River,2x1,2024-08-08,"1,375",Baseline Rent Accepted,F90 86%,Melissa Jones,2024-08-09,1375.2801378038193,1341.4155137803818,1409.1447618272568
+Cortland Riverside,2x2,2024-07-18,"1,816",Baseline Rent Accepted,,Ruchi Naik,2024-07-19,1820.3924654447114,1779.0461511145104,1861.7387968476835
+Cortland Riverside,2x2,2024-07-18,"1,846",Baseline Rent Accepted,,Ruchi Naik,2024-07-19,1820.3924654447114,1779.0461511145104,1861.7387968476835
+Cortland Research Park,1x1,2024-08-09,"1,291",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-08-10,1291.4813232421875,1260.3896484375,1322.572998046875
+The Addison at Sandy Springs,2x2,2024-08-08,"1,460",Baseline Rent Accepted,lots of evictions,Zack Knab,2024-08-09,1493.676233628217,1458.338098862592,1529.0144904641545
+Cortland Seventy Seven,1x1,2024-08-09,"1,351",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-08-10,1350.9268811953966,1320.2756360782091,1381.5781263125841
+Lake`s Edge,2x1,2024-08-09,"1,274",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-08-10,1273.7576904296875,1242.5543212890625,1304.9610595703125
+Cortland Bellevue,3x2,2024-07-19,"2,293",Baseline Rent Accepted,"F90 100%, 0 avail",Melissa Jones,2024-07-20,2287.4263741629466,2231.7139718191966,2343.1387765066966
+Cortland Cary - Phase 2,3x2,2024-07-15,"2,310",Baseline Rent Accepted,F90 86%,Melissa Jones,2024-07-16,2263.9413713727677,2210.1642717633927,2317.7184709821427
+Cortland at RTP,1x1,2024-07-29,"1,309",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-07-30,1311.6014123675468,1282.7019983050468,1340.5008264300468
+Cortland Oleander - Phase 1,2x2,2024-08-20,"2,380",Baseline Rent Accepted,,Zack Knab,2024-08-21,2368.02685546875,2314.6279296875,2421.42578125
+Tramore Village,1x1,2024-08-11,"1,220",Baseline Rent Accepted,,Zack Knab,2024-08-12,1240.4553602875255,1211.626380795338,1269.284339779713
+Cortland Viridian,1x1,2024-07-15,"1,570",Baseline Rent Accepted,,Zack Knab,2024-07-16,1564.142333984375,1528.515380859375,1599.7694091796875
+Cortland Gateway Park,3x2,2024-08-20,"2,888",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-08-21,2802.17333984375,2734.187744140625,2870.158935546875
+Cortland East Cobb,1x1,2024-08-12,"1,610",Baseline Rent Accepted,,Zack Knab,2024-08-13,1631.7257794904278,1595.6308087873028,1667.8207501935528
+Lake Ridge,2x1,2024-08-11,"1,280",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-08-12,1243.0648193359375,1212.615966796875,1273.513671875
+Cortland Midtown East Phase 2 - Avenues,2x2,2024-08-09,"1,682",Baseline Rent Accepted,F90 88%,Melissa Jones,2024-08-10,1682.0128447119869,1642.8170439307369,1721.2086454932369
+Sunbury Ridge,2x1,2024-08-18,"1,425",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-08-19,1460.1259358723958,1424.5811360677083,1495.6707356770833
+Battery 2nd Base,1x1,2024-08-12,"1,895",Baseline Rent Accepted,,Zack Knab,2024-08-13,1870.9433771954837,1827.0803400861087,1914.8062957986429
+Battery 2nd Base,1x1,2024-08-12,"1,920",Other Action taken (see comment),Getting leasing in these 1s. 1st base needs more help in 1s,Zack Knab,2024-08-13,1870.9433771954837,1827.0803400861087,1914.8062957986429
+1000 Spalding,2x2,2024-07-14,"1,910",Baseline Rent Accepted,,Zack Knab,2024-07-15,1905.8641357421875,1861.467529296875,1950.2607421875
+1000 Spalding,2x2,2024-07-14,"1,875",Baseline Rent Accepted,,Zack Knab,2024-07-15,1905.8641357421875,1861.467529296875,1950.2607421875
+Cortland Nona,1x1,2024-07-14,"1,900",Strong/High trends do not support rent recommendation,taking half of rec,Kaitlin Dierks,2024-07-15,1836.3552652994792,1794.6067301432292,1878.1036783854167
+Cortland Sugarloaf,2x2,2024-08-19,"1,725",Baseline Rent Accepted,,Zack Knab,2024-08-20,1698.0404692150298,1657.4429350353423,1738.6380033947173
+Cortland Sugarloaf,2x2,2024-08-19,"1,725",Baseline Rent Accepted,,Zack Knab,2024-08-20,1698.0404692150298,1657.4429350353423,1738.6380033947173
+Cortland Decatur East,1x1,2024-07-14,"1,655",Baseline Rent Accepted,,Zack Knab,2024-07-15,1692.7564394790516,1653.899872096239,1731.6128847915516
+Jefferson Chase,2x2,2024-08-18,"1,453",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-08-19,1453.3162109375,1417.5695068359375,1489.0629150390625
+Abbie Lakes,1x1,2024-08-18,"1,208",Baseline Rent Accepted,F90 95%,Melissa Jones,2024-08-19,1179.3134126209077,1150.3991059802827,1208.2278413318452
+Cortland Southpark Terraces,2x2,2024-08-06,"1,700","Cashflow strategy,  Elevated occupancy goal v. budget",,Jason Halpert,2024-08-07,1763.4235443115235,1720.8150227864583,1806.0320638020833
+Cortland Belgate,2x2,2024-08-08,"1,713",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-08-09,1713.7276043959066,1672.678410059969,1754.776798731844
+Cortland Highcroft,2x2,2024-08-01,"1,658",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-08-02,1657.9281974003234,1617.8527579471984,1698.0035147831359
+Cortland at the Hill,1x1,2024-07-28,"1,785",Baseline Rent Accepted,,Zack Knab,2024-07-29,1714.9634666214447,1673.6747703323822,1756.2522849808197
+Cortland Falls River,2x2,2024-08-01,"1,619",Baseline Rent Accepted,F90 89%,Melissa Jones,2024-08-02,1619.057373046875,1580.88720703125,1657.2276611328125
+Cortland Powell,3x3,2024-08-08,"2,725",Soft/Low trends do not support rent recommendation,F90 86%,Melissa Jones,2024-08-09,3011.9643903459823,2949.9687848772323,3073.9599958147323
+Cortland Bellevue,3x2,2024-07-22,"2,293",Other Action taken (see comment),"F90 96%, 0 avail",Melissa Jones,2024-07-23,2173.0728585379466,2120.2191031319753,2225.9263741629466
+Cortland Sunbury,2x2,2024-08-11,"1,659",Soft/Low trends do not support rent recommendation,F90 91%,Melissa Jones,2024-08-12,1779.9888509114583,1736.9787190755208,1822.9989827473958
+Cortland Midtown East Phase 2 - Avenues,1x1,2024-07-18,"1,568",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-07-19,1562.8237682933539,1527.6405407542914,1598.0071179027289
+Sunbury Ridge,2x1,2024-08-11,"1,440",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-08-12,1462.1310628255208,1426.5360921223958,1497.7260335286458
+Tramore Village,3x2,2024-08-18,"1,850",Soft/Low trends do not support rent recommendation,,Zack Knab,2024-08-19,1965.208984375,1919.8349609375,2010.5829284667968
+Cortland Cotswold,2x2,2024-07-22,"1,664",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-07-23,1695.869837143842,1654.476770737592,1737.262903550092
+Cortland Bear Creek,2x2,2024-07-30,"2,102",Other Action taken (see comment),staleness is on,Ruchi Naik,2024-07-31,2161.0683276684254,2112.5497492009945,2209.5868823559254
+Cortland Olde Raleigh,2x2,2024-08-21,"1,620",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-08-22,1627.6237618582588,1589.5251290457588,1665.7223946707588
+Cortland Cary - Phase 1,2x2,2024-07-22,"1,868",Known people issue,F90 91%,Melissa Jones,2024-07-23,1868.2097039473683,1824.3515496504933,1912.067965858861
+The Bend at Broad,1x1,2024-08-11,"1,109",Baseline Rent Accepted,F90 93%,Melissa Jones,2024-08-12,1145.5292290581597,1117.4153374565972,1173.6432427300347
+Cortland East Cobb,2x1,2024-07-30,"1,815",Baseline Rent Accepted,,Zack Knab,2024-07-31,1773.9307861328125,1730.00439453125,1817.857177734375
+Cortland University City,2x2,2024-07-22,"1,500",Baseline Rent Accepted,F90 86%,Melissa Jones,2024-07-23,1466.618507179054,1432.4919202649914,1500.7450940931164
+Cortland Powell,2x2,2024-07-17,"1,824",Baseline Rent Accepted,F90 95%,Melissa Jones,2024-07-18,1824.440046772204,1785.2883429276317,1863.5918097245067
+Cortland Cary - Phase 2,0x1,2024-08-05,"1,420",Strong/High trends do not support rent recommendation,F90 100%,Melissa Jones,2024-08-06,1180.1165771484375,1150.6136474609375,1209.6195068359375
+Cortland Cotswold,2x2,2024-08-05,"1,645",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-08-06,1685.8350471047795,1644.6929572610295,1726.977259018842
+Attiva Peachtree,2x2,2024-07-22,"2,515",Baseline Rent Accepted,,Zack Knab,2024-07-23,2514.91015625,2455.57958984375,2574.24072265625
+Cortland Duluth - Phase 2A,3x2,2024-07-30,"1,970",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-31,1870.1244710286458,1823.5672200520833,1916.6817220052083
+Cortland Chandler Crossing,2x2,2024-07-24,"2,021",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-07-25,2000.543682391827,1953.8125915527344,2047.274883563702
+Cortland Watermark,3x2,2024-08-01,"2,185",Other Action taken (see comment),Nothing to lease. Sitting in good spot for renewals in the FP,Zack Knab,2024-08-02,2066.9157511393228,2016.2115478515625,2117.619873046875
+Cortland Duluth - Phase 2A,2x1,2024-07-30,"1,635",Other Action taken (see comment),Small drop and added staleness to 75%,Zack Knab,2024-07-31,1539.7117919921875,1501.3768310546875,1578.046875
+Cortland North Brookhaven,1x1,2024-07-14,"1,730",Baseline Rent Accepted,,Zack Knab,2024-07-15,1730.7953944255396,1691.1498859838111,1770.4409034964965
+Cortland Inkwell Greenhouse,2x2,2024-08-06,"1,796",Baseline Rent Accepted,,Jason Halpert,2024-08-07,1800.7082880584287,1757.8728388396787,1843.5438593474912
+Cortland Cary - Phase 1,1x1,2024-08-19,"1,470",Known people issue,F90 93%,Melissa Jones,2024-08-20,1406.6244648634786,1374.422194355666,1438.8266133009786
+Cortland Whitehall,2x2,2024-07-19,"1,678",Baseline Rent Accepted,F90 86%,Melissa Jones,2024-07-20,1677.5518934461807,1637.9145643446182,1717.1893446180557
+The Terraces at Lake Mary,3x2,2024-07-14,"1,825",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-15,1770.1717664930557,1729.5719129774307,1810.7714979383682
+Cortland Northlake,2x2.5,2024-08-18,"1,770",Baseline Rent Accepted,F90 100%,Melissa Jones,2024-08-19,1656.6961624710648,1618.8366654007523,1694.5556595413773
+Cortland Northlake,1x1,2024-08-18,"1,275",Other Action taken (see comment),"F90 92%, less drastic decrease",Melissa Jones,2024-08-19,1214.6578369140625,1187.391357421875,1241.92431640625
+1000 Spalding,3x2,2024-07-28,"2,380",Baseline Rent Accepted,,Zack Knab,2024-07-29,2325.0335286458335,2268.3658040364585,2381.7010091145835
+1000 Spalding,3x2,2024-07-28,"2,380",Baseline Rent Accepted,,Zack Knab,2024-07-29,2325.0335286458335,2268.3658040364585,2381.7010091145835
+Cortland Duluth - Phase 2A,1x1,2024-07-21,"1,415",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-22,1300.5553269159227,1268.9944138299852,1332.1162400018602
+Abbie Lakes,2x1,2024-07-21,"1,316",Baseline Rent Accepted,F90 95%,Melissa Jones,2024-07-22,1315.8159760974702,1283.4889497302827,1348.1428803943452
+Attiva Peachtree,1x1,2024-07-14,"1,975",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-15,1873.6099384765625,1829.28974609375,1917.93023828125
+Cortland Research Park,2x2,2024-07-22,"1,548",Known people issue,F90 88%,Melissa Jones,2024-07-23,1541.6092393663193,1504.4770372178818,1578.7415635850693
+Cortland Bull City,0x1,2024-08-21,"1,449",Baseline Rent Accepted,F90 95%,Melissa Jones,2024-08-22,1510.032381383384,1472.127596227134,1547.937166539634
+Cortland Whitehall,2x2,2024-08-21,"1,690",Baseline Rent Accepted,F90 87%,Melissa Jones,2024-08-22,1666.8936903211807,1627.5228407118057,1706.2646620008682
+Cortland at RTP,3x2,2024-08-19,"1,750",Low lead conversion,F90 92%,Melissa Jones,2024-08-20,1804.5581461588542,1759.8608805338542,1849.2555338541667
+Cortland Oleander - Phase 1,1x1,2024-07-22,"1,770",Baseline Rent Accepted,,Zack Knab,2024-07-23,1765.959948593311,1725.8790159761236,1806.0408812104986
+Cortland University City,3x2,2024-08-21,"1,640",Baseline Rent Accepted,F90 81%,Melissa Jones,2024-08-22,1606.3510064019097,1567.3414849175347,1645.3604058159722
+Cortland Duluth - Phase 2A,3x2,2024-08-13,"1,970",Strong/High trends do not support rent recommendation,,Zack Knab,2024-08-14,1870.1215413411458,1823.5642903645833,1916.6786702473958
+Cortland Lex,1x1,2024-07-14,"1,680",Baseline Rent Accepted,,Zack Knab,2024-07-15,1682.3159586588542,1641.7372233072917,1722.8946940104167
+Cortland Powell,1x1,2024-07-21,"1,369",Baseline Rent Accepted,F90 87.5%,Melissa Jones,2024-07-22,1385.5306396484375,1354.384521484375,1416.6766357421875
+Cortland Dublin,2x2,2024-08-21,"1,593",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-08-22,1592.0865478515625,1554.5069580078125,1629.666015625
+Cortland Wren Northlake - Phase 1,1x1,2024-08-21,"1,364",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-08-22,1331.140907845846,1299.4020162442835,1362.8797994474085
+Cortland at Phipps Plaza,1x1,2024-07-14,"1,620",Baseline Rent Accepted,,Zack Knab,2024-07-15,1621.3477219012605,1583.1502121356355,1659.545353737198
+Cortland Belgate,3x2,2024-08-21,"1,990",Other Action taken (see comment),"F90 92%, evictions entered",Melissa Jones,2024-08-22,2068.7737661508413,2018.0207895132212,2119.526893028846
+Cortland Bear Creek,2x1,2024-08-11,"1,933",Other Action taken (see comment),rates not correct here in RMP ticket already submitted,Ruchi Naik,2024-08-12,1869.1603338068182,1824.6982976740057,1913.6222478693182
+Cortland Duluth - Phase 2A,2x1,2024-07-21,"1,655",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-22,1539.7117919921875,1501.3768310546875,1578.046875
+Cortland Powell,1x1,2024-07-14,"1,469",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-07-15,1457.869873046875,1424.915283203125,1490.824462890625
+Cortland Midtown East Phase 1 - Vue 64,3x2,2024-07-18,"2,343",Baseline Rent Accepted,F90 84%,Melissa Jones,2024-07-19,2399.3969855057567,2343.2214483963817,2455.5727667557567
+Cortland Windward,2x2,2024-07-22,"1,955",Soft/Low trends do not support rent recommendation,,Zack Knab,2024-07-23,2009.1226854826275,1961.290965833162,2056.9543842516446
+Abbie Lakes,2x2,2024-07-17,"1,355",Baseline Rent Accepted,F90 86%,Melissa Jones,2024-07-18,1322.7894635881696,1290.7577253069196,1354.8212018694196
+Cortland Broomfield,3x2,2024-08-20,"2,846",Baseline Rent Accepted,,Joshua Bivens,2024-08-21,2902.999004657452,2831.597149188702,2974.400860126202
+Cortland Cotswold,2x2,2024-08-01,"1,645",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-08-02,1685.8350471047795,1644.6929572610295,1726.977259018842
+Cortland La Villita,2x2,2024-07-18,"2,380",Strong/High trends do not support rent recommendation,,Ruchi Naik,2024-07-19,2249.132568359375,2196.427734375,2301.83740234375
+Cortland Belgate,1x1,2024-07-22,"1,450",Baseline Rent Accepted,F90 98%,Melissa Jones,2024-07-23,1411.220907405931,1377.2630216637435,1445.178671077806
+Cortland on Cherry Creek,2x2,2024-07-08,"2,262",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-07-09,2261.9549153645835,2208.3584798177085,2315.5513509114585
+Cortland Oleander - Phase 1,3x2,2024-07-15,"3,090",Baseline Rent Accepted,,Zack Knab,2024-07-16,3030.821044921875,2955.863037109375,3105.779052734375
+Cortland Powell,2x2.5,2024-07-08,"2,005",Other Action taken (see comment),"F90 93%, directionally in line with model",Melissa Jones,2024-07-09,1929.706863018645,1887.3486102448792,1972.0650645023634
+Lake`s Edge,2x1,2024-08-14,"1,228",Baseline Rent Accepted,F90 91.5%,Melissa Jones,2024-08-15,1270.631103515625,1239.5059814453125,1301.75634765625
+Cortland Perimeter Park,2x2,2024-07-08,"1,741",Baseline Rent Accepted,F90 85.5%,Melissa Jones,2024-07-09,1734.4734967646707,1694.0276959834207,1774.9192975459207
+Cortland Whitehall,1x1,2024-07-08,"1,525",Baseline Rent Accepted,F90 93%,Melissa Jones,2024-07-09,1492.1279005363806,1458.842378075443,1525.4133009270056
+Cortland at 2534,2x2,2024-07-08,"2,101",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-07-09,2033.1988932291667,1984.7448689778646,2081.6527506510415
+Cortland Cotswold,2x1,2024-07-22,"1,520",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-07-23,1526.34812298943,1489.14158002068,1563.55466595818
+Cortland Bull City,2x2,2024-07-08,"2,317",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-07-09,2320.374158135776,2265.584607354526,2375.163464776401
+Perimeter 5550,1x1,2024-08-01,"1,400",Baseline Rent Accepted,,Zack Knab,2024-08-02,1426.1200428838315,1392.088182532269,1460.1517811650815
+Battery 2nd Base,3x3,2024-08-28,"3,780",Baseline Rent Accepted,,Zack Knab,2024-08-29,3791.30517578125,3696.022705078125,3886.587890625
+Cortland River North - Phase 1,2x2,2024-07-22,"3,610",Low lead volume,Leasing season is ending in Chicago,Zack Knab,2024-07-23,3727.399323640046,3640.996735749421,3813.801911530671
+Battery 2nd Base,2x2,2024-08-19,"2,600",Baseline Rent Accepted,,Zack Knab,2024-08-20,2646.701778451192,2582.692745248067,2710.710811654317
+Cortland Covington Ridge,2x2,2024-07-16,"2,249","Cashflow strategy,  Elevated occupancy goal v. budget",,Joshua Bivens,2024-07-17,2124.744140625,2072.6754638671873,2176.812744140625
+Cortland Powell,3x2.5,2024-08-01,"2,290",Strong/High trends do not support rent recommendation,F90 97%,Melissa Jones,2024-08-02,2248.0283203125,2195.52294921875,2300.53369140625
+Cortland Powell,3x2.5,2024-08-01,"2,290",Baseline Rent Accepted,F90 97%,Melissa Jones,2024-08-02,2248.0283203125,2195.52294921875,2300.53369140625
+Cortland Cary - Phase 1,3x2,2024-08-21,"2,260",Strong/High trends do not support rent recommendation,F90 100%,Melissa Jones,2024-08-22,2128.438720703125,2076.102783203125,2180.774658203125
+Cortland Decatur East,2x1,2024-07-29,"2,030",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-30,1937.9276216947114,1891.517831655649,1984.3372896634614
+The Terraces at Lake Mary,4x2,2024-07-14,"2,020",Other Action taken (see comment),staleness on,Kaitlin Dierks,2024-07-15,1993.7855631510417,1947.5138346354167,2040.0572916666667
+Reserve at Abbie Lakes,2x2,2024-08-11,"1,404",Low lead conversion,F90 98%,Melissa Jones,2024-08-12,1459.1617431640625,1423.0576171875,1495.2657470703125
+Reserve at Abbie Lakes,2x2,2024-08-11,"1,410",Low lead conversion,"F90 98%, yesterday rent inaccurate",Melissa Jones,2024-08-12,1459.1617431640625,1423.0576171875,1495.2657470703125
+Cortland Reunion,3x2,2024-07-07,"2,200",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-08,2182.9599609375,2129.073486328125,2236.846435546875
+Cortland University City,3x2,2024-08-05,"1,659",Known product issue,F90 81%,Melissa Jones,2024-08-06,1619.4027642144097,1580.0670708550347,1658.7385796440972
+Cortland NoDa,1x1.5,2024-08-21,"1,999",Baseline Rent Accepted,F90 100%,Melissa Jones,2024-08-22,1954.8217637803818,1910.1596272786458,1999.4839680989583
+Cortland Highcroft,2x1,2024-08-08,"1,492",Baseline Rent Accepted,F90 83%,Melissa Jones,2024-08-09,1491.7636311848958,1454.4903157552083,1529.0368245442708
+Cortland at Coalton,2x1,2024-07-24,"2,464",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-07-25,2249.2650553385415,2193.0751139322915,2305.4549967447915
+Cortland Powell,3x3,2024-08-01,"2,725",Soft/Low trends do not support rent recommendation,F90 86%,Melissa Jones,2024-08-02,3011.9648786272323,2949.9695172991073,3073.9604840959823
+Cortland Lex,2x2.5,2024-07-22,"2,915",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-23,2822.0,2752.293701171875,2891.706298828125
+Cortland Oleander - Phase 2,3x2,2024-08-13,"2,900",Baseline Rent Accepted,,Zack Knab,2024-08-14,2901.2657877604165,2829.9010416666665,2972.6307779947915
+Cortland Covington Ridge,2x1,2024-07-08,"2,101",Known people issue,,Joshua Bivens,2024-07-09,1884.83544921875,1837.714599609375,1931.956298828125
+Cortland Perimeter Park,3x2,2024-07-08,"1,909",Baseline Rent Accepted,F90 86%,Melissa Jones,2024-07-09,1955.0518840921336,1908.498783506196,2001.6048626077586
+Cortland Watermark,3x2,2024-07-21,"2,185",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-22,2066.9157511393228,2016.2115478515625,2117.619873046875
+Abbie Lakes,2x2,2024-07-10,"1,411",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-07-11,1426.971226283482,1392.3348737444196,1461.6075788225446
+Cortland Cary - Phase 2,3x2,2024-08-05,"2,380",Strong/High trends do not support rent recommendation,F90 100%,Melissa Jones,2024-08-06,2264.3171037946427,2210.5304827008927,2318.1034807477677
+Cortland Cary - Phase 1,0x1,2024-08-21,"1,286",Known people issue,F90 91%,Melissa Jones,2024-08-22,1236.406815962358,1208.0080122514205,1264.805741743608
+Cortland Cary - Phase 2,3x2,2024-08-12,"2,318",Baseline Rent Accepted,F90 95%,Melissa Jones,2024-08-13,2264.3171037946427,2210.5304827008927,2318.1034807477677
+The Addison at Sandy Springs,2x1,2024-07-11,"1,460",Baseline Rent Accepted,,Zack Knab,2024-07-12,1476.0281982421875,1439.989990234375,1512.06640625
+Battery 2nd Base,3x3,2024-07-15,"3,790",Baseline Rent Accepted,,Zack Knab,2024-07-16,3743.84130859375,3649.7451171875,3837.937255859375
+Cortland at the Nations,2x2,2024-07-12,"2,549",Baseline Rent Accepted,F90 95%,Melissa Jones,2024-07-13,2515.776925223214,2454.989571707589,2576.564278738839
+Abbie Lakes,2x1,2024-07-11,"1,308",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-07-12,1307.7616548084077,1275.6360444568452,1339.8872651599702
+Cortland Falls River,2x2,2024-07-11,"1,735",Baseline Rent Accepted,F90 93%,Melissa Jones,2024-07-12,1745.362548828125,1704.0347900390625,1786.6904296875
+Cortland Whitehall,3x2,2024-08-05,"2,025",Baseline Rent Accepted,F90 100%,Melissa Jones,2024-08-06,2051.9744466145835,2002.6334940592449,2101.3155110677085
+Cortland Whitehall,3x2,2024-08-05,"2,070",Baseline Rent Accepted,F90 100%,Melissa Jones,2024-08-06,2051.9744466145835,2002.6334940592449,2101.3155110677085
+Cortland Cotswold,2x2,2024-07-11,"1,706",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-07-12,1705.697229721967,1664.0584357766545,1747.3360236672795
+Cortland Cotswold,2x1,2024-07-11,"1,526",Baseline Rent Accepted,F90 96%,Melissa Jones,2024-07-12,1526.350808536305,1489.1441434972426,1563.557351505055
+Cortland West Boynton,1x1,2024-07-10,"2,045",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-11,2081.4439832899307,2030.0781029595269,2132.8099500868057
+The Terraces at Lake Mary,3x2,2024-07-10,"1,820",Soft/Low trends do not support rent recommendation,,Kaitlin Dierks,2024-07-11,1868.1716444227432,1825.1218397352432,1911.2213270399307
+Perimeter Circle,3x2,2024-08-20,"2,160",Baseline Rent Accepted,,Zack Knab,2024-08-21,2162.758544921875,2108.814453125,2216.702392578125
+Cortland Sugarloaf,3x2,2024-06-09,"2,210",Baseline Rent Accepted,,Zack Knab,2024-06-10,2221.2543829055057,2167.3718145461307,2275.1369512648807
+Cortland NoDa,1x1.5,2024-08-01,"1,969",Baseline Rent Accepted,F90 100%,Melissa Jones,2024-08-02,1924.8345540364583,1880.9220784505208,1968.7471516927083
+Cortland Jubilee Park,3x2,2024-07-10,"2,461",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-11,2404.986746651786,2349.411307198661,2460.562430245536
+Cortland Cotswold,2x2,2024-06-24,"1,690",Baseline Rent Accepted,F90 96%,Melissa Jones,2024-06-25,1689.710901596967,1648.471887925092,1730.9500373391545
+Cortland NoDa,1x1,2024-06-24,"1,623",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-06-25,1658.3411708184851,1620.8797450372351,1695.8025965997351
+Cortland Reunion,3x2,2024-07-10,"2,227",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-11,2168.120849609375,2114.605224609375,2221.63623046875
+Cortland Reunion,3x2,2024-07-10,"2,200",Soft/Low trends do not support rent recommendation,,Kaitlin Dierks,2024-07-11,2168.120849609375,2114.605224609375,2221.63623046875
+Cortland Falls River,3x2,2024-07-11,"1,930",Baseline Rent Accepted,F90 95%,Melissa Jones,2024-07-12,1918.393541608538,1873.2975899832588,1963.4896065848213
+Perimeter 5550,2x1,2024-07-15,"1,650",Other Action taken (see comment),None to lease,Zack Knab,2024-07-16,1572.6077473958333,1533.6259358723958,1611.5896809895833
+Cortland Covington Ridge,3x2,2024-08-20,"2,547",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-08-21,2442.9306640625,2383.107421875,2502.75390625
+Cortland NoDa,0x1,2024-07-11,"1,434",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-07-12,1341.0531483525815,1309.510545813519,1372.595750891644
+Cortland at Valley Ranch,2x2,2024-06-09,"2,189",Baseline Rent Accepted,,Ruchi Naik,2024-06-10,2217.2322823660716,2166.3121163504466,2268.1522042410716
+Cortland at Valley Ranch,2x2,2024-06-09,"2,189",Known people issue,hold- onsite training needed,Ruchi Naik,2024-06-10,2217.2322823660716,2166.3121163504466,2268.1522042410716
+Cortland Watermark,3x2.5,2024-07-09,"2,415",Strong/High trends do not support rent recommendation,,Zack Knab,2024-07-10,2244.892578125,2188.942138671875,2300.843017578125
+Cortland Reunion,2x2,2024-06-30,"2,038",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-01,2037.7937580265411,1989.3215900577911,2086.266004588506
+Cortland Reunion,1x1,2024-06-30,"1,576",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-01,1612.3338716947114,1578.501474233774,1646.166269155649
+Cortland Inkwell Greenhouse,1x1,2024-06-23,"1,278",Baseline Rent Accepted,,Jason Halpert,2024-06-24,1288.4492788741838,1258.5178823898088,1318.3806753585588
+Cortland on Orange,1x1,2024-06-30,"1,862",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-01,1780.0950398478474,1742.761319247159,1817.4286716701267
+Cortland on Orange,1x1,2024-06-30,"1,862",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-01,1780.0950398478474,1742.761319247159,1817.4286716701267
+Cortland Lake Lotus,1x1,2024-06-30,"1,569",Known or presumed retention misaligns with projection,staleness on,Kaitlin Dierks,2024-07-01,1474.541313414361,1440.7076952502985,1508.375053648736
+Cortland University City,2x2,2024-06-24,"1,560",Known product issue,F90 86.5%,Melissa Jones,2024-06-25,1458.2948987806164,1424.376319679054,1492.2133558118664
+Cortland Sugarloaf,2x2,2024-06-30,"1,860",Baseline Rent Accepted,,Zack Knab,2024-07-01,1834.0182524181548,1790.0213041759673,1878.0153227306548
+The Terraces at Lake Mary,4x2,2024-06-09,"2,040",Low lead conversion,trend can change quickly,Kaitlin Dierks,2024-06-10,2162.1349080403647,2111.6544342041016,2212.6153971354165
+Cortland Duluth - Phase 1C,2x1,2024-06-30,"1,675",Other Action taken (see comment),Balancing phases,Zack Knab,2024-07-01,1558.2444807525374,1525.3731428619124,1591.1156965728499
+Cortland Hunters Creek,2x2,2024-06-10,"1,920",Baseline Rent Accepted,staleness on,Kaitlin Dierks,2024-06-11,1917.3692427831338,1872.9739799770057,1961.7645021262745
+Cortland Walnut Hill,2x2,2024-06-10,"2,171",Strong/High trends do not support rent recommendation,,Ruchi Naik,2024-06-11,2112.9851339088295,2067.6392246462265,2158.3308750368515
+Battery 2nd Base,3x3,2024-08-19,"3,790",Baseline Rent Accepted,,Zack Knab,2024-08-20,3791.31201171875,3696.029296875,3886.5947265625
+Cortland Jubilee Park,2x2,2024-06-25,"2,057",Baseline Rent Accepted,staleness on,Kaitlin Dierks,2024-06-26,2057.0373022460935,2011.8138671875,2102.2606732177733
+Cortland Watermark,2x1,2024-06-23,"1,700",Strong/High trends do not support rent recommendation,,Zack Knab,2024-06-24,1548.154851363877,1510.1522878873145,1586.157536910752
+Cortland Hunters Creek,1x1,2024-06-25,"1,640",Soft/Low trends do not support rent recommendation,adding FH with gaps,Kaitlin Dierks,2024-06-26,1714.362699146113,1676.3144813726756,1752.410794849238
+Cortland Hunters Creek,3x2,2024-06-10,"2,330",Soft/Low trends do not support rent recommendation,,Kaitlin Dierks,2024-06-11,2399.4781400240386,2343.0152493990386,2455.9410306490386
+Cortland Cotswold,2x1,2024-06-27,"1,526",Baseline Rent Accepted,"F90 97%, app yesterday",Melissa Jones,2024-06-28,1502.367898380055,1465.7608427159926,1538.974831973805
+1000 Spalding,2x2,2024-05-20,"1,865",Baseline Rent Accepted,Baseline Rent Accepted,Zack Knab,2024-05-21,1884.2486572265625,1840.3924560546875,1928.1048583984375
+1000 Spalding,2x2,2024-05-20,"1,865",Baseline Rent Accepted,Baseline Rent Accepted,Zack Knab,2024-05-21,1884.2486572265625,1840.3924560546875,1928.1048583984375
+Cortland University North,2x1,2024-08-05,"1,450",Strong/High trends do not support rent recommendation,F90 100%,Melissa Jones,2024-08-06,1295.3333740234375,1263.324951171875,1327.3416748046875
+Cortland Whitehall,1x1,2024-06-28,"1,468",Other Action taken (see comment),"F90 90%, staleness",Melissa Jones,2024-06-29,1390.776948387943,1360.025239403568,1421.528657372318
+Cortland Jubilee Park,3x2,2024-06-30,"2,501",Baseline Rent Accepted,,Kaitlin Dierks,2024-07-01,2521.4153180803573,2462.8398786272323,2579.9910016741073
+Cortland Duluth - Phase 2A,3x2,2024-06-30,"1,950",Other Action taken (see comment),Balancing phases,Zack Knab,2024-07-01,1871.2096761067708,1824.6253255208333,1917.7941487630208
+Cortland Duluth - Phase 2A,1x1,2024-05-06,"1,335",Baseline Rent Accepted,Baseline Rent Accepted,Zack Knab,2024-05-07,1304.5649704706102,1272.9038376581102,1336.2261032831102
+Tramore Village,1x1,2024-07-01,"1,300",Baseline Rent Accepted,,Zack Knab,2024-07-02,1312.558997982838,1281.927406185963,1343.190589779713
+Cortland Whitehall,1x1,2024-07-05,"1,502",Baseline Rent Accepted,F90 91%,Melissa Jones,2024-07-06,1469.512788231693,1436.7926954582556,1502.2328810051306
+Cortland East Cobb,2x1,2024-06-25,"1,885",Baseline Rent Accepted,,Zack Knab,2024-06-26,1866.6683349609375,1820.4234619140625,1912.9132080078125
+Cortland Hunters Creek,2x2,2024-06-25,"1,905",Soft/Low trends do not support rent recommendation,pushing towards RER,Kaitlin Dierks,2024-06-26,1980.8332329066932,1934.8514222490026,2026.8150903147164
+Cortland Arbor Hills,2x2,2024-07-01,"2,119",Other Action taken (see comment),Not reflecting accuartely- we lease 2 units in June,Ruchi Naik,2024-07-02,2167.460942106427,2121.683598356427,2213.238252459832
+Cortland Seventy Seven,2x2,2024-07-05,"1,662",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-07-06,1661.7974266943993,1622.8737206397118,1700.7211327490868
+Cortland Reunion,2x2,2024-06-25,"2,038",Baseline Rent Accepted,,Kaitlin Dierks,2024-06-26,2037.7844806827911,1989.312423078981,2086.256404510916
+Tramore Village,2x2,2024-07-01,"1,640",Soft/Low trends do not support rent recommendation,,Zack Knab,2024-07-02,1683.2002194251543,1643.6240475501543,1722.7763913001543
+Cortland University City,1x1,2024-07-05,"1,245",Known product issue,F90 89%,Melissa Jones,2024-07-06,1206.86790174119,1177.733380256815,1236.0023011552526
+Cortland Vera Sanford,1x1,2024-05-06,"1,602",Baseline Rent Accepted,Baseline Rent Accepted,Kaitlin Dierks,2024-05-07,1638.2980529339645,1601.9801818402145,1674.6159240277145
+Cortland Legacy,1x1,2024-07-04,"1,461",Baseline Rent Accepted,,Ruchi Naik,2024-07-05,1480.377554434317,1446.9714265046296,1513.783804434317
+Cortland Waters Edge,2x2,2024-07-04,"2,186",Baseline Rent Accepted,,Ruchi Naik,2024-07-05,2238.9244759436883,2184.5919564124383,2293.2572396155633
+Cortland Waters Edge,2x2,2024-07-04,"2,185",Baseline Rent Accepted,,Ruchi Naik,2024-07-05,2238.9244759436883,2184.5919564124383,2293.2572396155633
+Fountain Wood,2x1,2024-07-04,"1,690",Strong/High trends do not support rent recommendation,,Ruchi Naik,2024-07-05,1505.9695638020833,1469.7865804036458,1542.1526692708333
+Cortland NoDa,2x2,2024-05-28,"2,226",Baseline Rent Accepted,,Melissa Jones,2024-05-29,2277.5969337930483,2225.9043242785397,2329.2893166055483
+Cortland East Cobb,1x1,2024-05-28,"1,610",Baseline Rent Accepted,,Zack Knab,2024-05-29,1579.9129132794903,1545.1133527326153,1614.7125958966778
+Cortland East Cobb,1x1,2024-05-28,"1,640",Change in normal strategy due to dispo,,Zack Knab,2024-05-29,1579.9129132794903,1545.1133527326153,1614.7125958966778
+1000 Spalding,2x2,2024-05-28,"1,890",Baseline Rent Accepted,,Zack Knab,2024-05-29,1890.3785400390625,1846.3690185546875,1934.387939453125
+Cortland Powell,2x2.5,2024-05-31,"2,047",Baseline Rent Accepted,,Melissa Jones,2024-06-01,2002.6656709558824,1958.4551232602416,2046.8762658383666
+Cortland Mirror Lake,2x1,2024-06-16,"1,704",Baseline Rent Accepted,,Kaitlin Dierks,2024-06-17,1626.810791015625,1587.13427734375,1666.4873046875
+Cortland Belgate,1x1,2024-07-01,"1,385",Baseline Rent Accepted,F90 94%,Melissa Jones,2024-07-02,1303.529745296556,1272.264120296556,1334.7952482262435
+Cortland Cotswold,2x1,2024-07-01,"1,526",Baseline Rent Accepted,F90 97%,Melissa Jones,2024-07-02,1526.34812298943,1489.14158002068,1563.55466595818
+1000 Spalding,1x1,2024-06-03,"1,435",Baseline Rent Accepted,,Zack Knab,2024-06-04,1436.0683434527853,1404.2720788043478,1467.8646081012228
+Cortland Whitehall,1x1,2024-06-03,"1,499",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-06-04,1396.978852684818,1366.072114403568,1427.8857130363806
+The Addison at Sandy Springs,1x1,2024-05-06,"1,375",Baseline Rent Accepted,Baseline Rent Accepted,Zack Knab,2024-05-07,1374.2649169921874,1341.848291015625,1406.68154296875
+The Addison at Sandy Springs,1x1,2024-05-06,"1,345",Baseline Rent Accepted,Baseline Rent Accepted,Zack Knab,2024-05-07,1374.2649169921874,1341.848291015625,1406.68154296875
+Cortland West Boynton,1x1,2024-05-06,"2,050",Baseline Rent Accepted,Baseline Rent Accepted,Kaitlin Dierks,2024-05-07,2065.8580661349824,2014.881830851237,2116.8343641493057
+The Overlook at Daytona,2x1,2024-05-06,"1,490",Strong/High trends do not support rent recommendation,,Kaitlin Dierks,2024-05-07,1410.0911865234375,1380.7060546875,1439.4761962890625
+Cortland Vizcaya,3x2,2024-06-23,"1,985",Baseline Rent Accepted,,Jason Halpert,2024-06-24,2001.8507210867745,1954.139195033482,2049.5621337890625
+Cortland Waters Edge,1x1,2024-05-02,"1,603",Baseline Rent Accepted,Baseline Rent Accepted,Joshua Bivens,2024-05-03,1605.2453320856546,1567.2089551325296,1643.281831109092
+Cortland NoDa,0x1,2024-06-13,"1,383",Baseline Rent Accepted,F90 87%,Melissa Jones,2024-06-14,1341.8031483525815,1310.2418690557065,1373.364549719769
+Cortland Lake Lotus,3x2,2024-06-25,"2,225",Baseline Rent Accepted,staleness on instead,Kaitlin Dierks,2024-06-26,2218.4876302083335,2165.1477864583335,2271.8274739583335
+Cortland University North,2x2,2024-06-17,"1,457",Baseline Rent Accepted,F90 89.5%,Melissa Jones,2024-06-18,1468.8054223154106,1433.5141625497856,1504.0965600107231
+1000 Spalding,1x1,2024-06-17,"1,440",Baseline Rent Accepted,,Zack Knab,2024-06-18,1431.7117760699728,1400.0243981402853,1463.3990319293478
+1000 Spalding,3x2,2024-06-17,"2,380",Baseline Rent Accepted,,Zack Knab,2024-06-18,2445.1255696614585,2385.4556477864585,2504.7952473958335
+Cortland at Coalton,2x2,2024-06-12,"2,706",Baseline Rent Accepted,,Dylan Orr,2024-06-13,2705.7208467371324,2641.2130342371324,2770.2286592371324
+Cortland North Haven,2x2,2024-05-05,"2,260",Other Action taken (see comment),Agreed with reductions but less volatile,Jason Halpert,2024-05-06,2151.9725853704635,2102.3527123235885,2201.5924584173385
+Cortland Watermark,2x2,2024-05-28,"1,830",Strong/High trends do not support rent recommendation,,Zack Knab,2024-05-29,1757.8969677734376,1717.17150390625,1798.622431640625
+Cortland at West Village - Phase 1,2x2,2024-05-27,"3,370",Other Action taken (see comment),only 1 unit available,Ruchi Naik,2024-05-28,3080.4350807883525,3007.3811257102275,3153.4892800071025
+Cortland at Coalton,1x1,2024-07-02,"2,033",Baseline Rent Accepted,,Joshua Bivens,2024-07-03,2012.1685594128023,1964.5982469128023,2059.7388719128026
+Cortland at Green Valley,2x2,2024-07-02,"2,261",Baseline Rent Accepted,,Joshua Bivens,2024-07-03,2241.325812844669,2187.354377297794,2295.297248391544
+Cortland Cotswold,1x1,2024-05-06,"1,418",Baseline Rent Accepted,Baseline Rent Accepted,Melissa Jones,2024-05-07,1389.6307024274554,1361.336390904018,1417.925013950893
+Cortland at 2534,1x1,2024-06-18,"1,694",Strong/High trends do not support rent recommendation,"upper rec taken , increaesed spend last week",Joshua Bivens,2024-06-19,1701.9748154937245,1661.243003970287,1742.7065049468495
+Cortland Sugarloaf,3x2,2024-06-03,"2,210",Baseline Rent Accepted,,Zack Knab,2024-06-04,2211.7409551711307,2158.0964239211307,2265.3857305617557
+Cortland Perimeter Park,1x1,2024-06-17,"1,424",Baseline Rent Accepted,"F90 92%, 1 stale",Melissa Jones,2024-06-18,1453.281831629136,1421.5527056525734,1485.0109576056984
+Cortland Reunion,3x2,2024-06-18,"2,246",Baseline Rent Accepted,,Kaitlin Dierks,2024-06-19,2302.9599609375,2246.073486328125,2359.846435546875
+Cortland at Coalton,2x2,2024-05-21,"2,834",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-05-22,2686.0042940027574,2621.9896455652574,2750.0191865808824
+Cortland Mirror Lake,2x1,2024-06-18,"1,707",Baseline Rent Accepted,,Kaitlin Dierks,2024-06-19,1741.7127685546875,1699.1636962890625,1784.2618408203125
+Cortland University North,2x2,2024-06-06,"1,470",Baseline Rent Accepted,F90 90%,Melissa Jones,2024-06-07,1455.9296898935356,1420.9604516122856,1490.8990502450981
+Cortland Bull City,2x2,2024-06-06,"2,312",Baseline Rent Accepted,"F90 93%, 3 stale",Melissa Jones,2024-06-07,2308.082898370151,2253.600720635776,2362.565076104526
+Cortland at Twin Creeks,2x2,2024-07-04,"1,969",Strong/High trends do not support rent recommendation,,Ruchi Naik,2024-07-05,1903.0948260271991,1858.8068621600116,1947.3829119646991
+Cortland Arbor Hills,1x1,2024-06-06,"1,689",Baseline Rent Accepted,,Ruchi Naik,2024-06-07,1651.5539446891623,1614.3801165641623,1688.7277728141623
+Cortland Hunters Creek,1x1,2024-06-06,"1,675",Soft/Low trends do not support rent recommendation,,Kaitlin Dierks,2024-06-07,1719.949369067988,1681.7615028570506,1758.137113208613
+Cortland University City,3x2,2024-05-06,"1,682",Baseline Rent Accepted,Baseline Rent Accepted,Melissa Jones,2024-05-07,1653.0731743706597,1612.8956841362847,1693.2506646050347
+Cortland West Boynton,3x2,2024-06-06,"2,735",Baseline Rent Accepted,,Kaitlin Dierks,2024-06-07,2769.510498046875,2701.612548828125,2837.408447265625
+Cortland University North,1x1,2024-05-28,"1,298",Baseline Rent Accepted,,Melissa Jones,2024-05-29,1298.4535725911458,1267.4584554036458,1329.4488118489583
+Cortland Belgate,2x2,2024-05-16,"1,650",Baseline Rent Accepted,Baseline Rent Accepted,Melissa Jones,2024-05-17,1657.746037013094,1618.096378809969,1697.395695216219
+Cortland Gateway Park,2x2,2024-05-21,"2,262",Strong/High trends do not support rent recommendation,,Joshua Bivens,2024-05-22,2133.352852957589,2082.313790457589,2184.392159598214
+Cortland at Twin Creeks,3x2,2024-07-01,"2,203",Strong/High trends do not support rent recommendation,,Ruchi Naik,2024-07-02,2079.3356119791665,2028.0502115885417,2130.6212565104165
+Cortland at Twin Creeks,3x2,2024-07-01,"2,203",Strong/High trends do not support rent recommendation,,Ruchi Naik,2024-07-02,2079.3356119791665,2028.0502115885417,2130.6212565104165
+Abbie Lakes,1x1,2024-05-16,"1,105",Baseline Rent Accepted,Baseline Rent Accepted,Melissa Jones,2024-05-17,1132.6897553943452,1104.9409760974702,1160.4385346912202
+Cortland Vera Sanford,3x2,2024-06-18,"2,400",Soft/Low trends do not support rent recommendation,,Kaitlin Dierks,2024-06-19,2481.304877387153,2423.166693793403,2539.443060980903
+Cortland Nona,3x2,2024-06-18,"2,807",Baseline Rent Accepted,,Kaitlin Dierks,2024-06-19,2853.379085286458,2785.625667317708,2921.132747395833
+Cortland on Orange,0x1,2024-06-18,"1,650",Baseline Rent Accepted,,Kaitlin Dierks,2024-06-19,1672.4903266720655,1632.1475532345655,1712.8331001095655
+Cortland University North,2x2,2024-05-16,"1,484",Baseline Rent Accepted,Baseline Rent Accepted,Melissa Jones,2024-05-17,1437.8263394224878,1403.2801968443628,1472.3724820006128
+Cortland Mirror Lake,3x2,2024-06-16,"2,075",Baseline Rent Accepted,,Kaitlin Dierks,2024-06-17,1977.412885393415,1928.8942057291667,2025.9315592447917
+Cortland Powell,3x3,2024-06-20,"2,850",Soft/Low trends do not support rent recommendation,F90 86%,Melissa Jones,2024-06-21,3011.9648786272323,2949.9695172991073,3073.9604840959823
+Cortland Cotswold,2x2,2024-06-06,"1,666",Baseline Rent Accepted,F90 97%,Melissa Jones,2024-06-07,1666.3152717141545,1625.6609748391545,1706.969446518842
+Cortland Bull City,0x1,2024-05-30,"1,443",Baseline Rent Accepted,,Melissa Jones,2024-05-31,1426.112947789634,1390.306063024009,1461.9197104849466
+Cortland University City,3x2,2024-06-06,"1,640",Known product issue,F90 75%,Melissa Jones,2024-06-07,1609.9927300347222,1570.8921440972222,1649.0931939019097
+Cortland Hunters Creek,2x2,2024-06-16,"1,880",Soft/Low trends do not support rent recommendation,,Kaitlin Dierks,2024-06-17,1878.3257866176307,1834.9065971645057,1921.7448540004432
+Tramore Village,3x2,2024-06-03,"1,970",Baseline Rent Accepted,,Zack Knab,2024-06-04,1969.25341796875,1923.7783203125,2014.728515625
+1000 Spalding,3x2,2024-06-03,"2,400",Baseline Rent Accepted,,Zack Knab,2024-06-04,2436.9722493489585,2377.5061848958335,2496.4380696614585
+Cortland Watermark,3x2.5,2024-05-28,"2,385",Baseline Rent Accepted,,Zack Knab,2024-05-29,2385.745361328125,2326.273681640625,2445.217041015625
+Cortland Belgate,3x2,2024-06-03,"2,000",Baseline Rent Accepted,F90 92%,Melissa Jones,2024-06-04,2029.0098031850962,1979.2510141225962,2078.768836388221
+Cortland East Cobb,2x1,2024-05-20,"1,830",Baseline Rent Accepted,Baseline Rent Accepted,Zack Knab,2024-05-21,1839.7808837890625,1794.208251953125,1885.353515625
+Cortland NoDa,0x1,2024-06-06,"1,389",Baseline Rent Accepted,F90 83%,Melissa Jones,2024-06-07,1357.4408436650815,1325.488573157269,1389.3932362432065
+The Terraces at Lake Mary,4x2,2024-06-06,"2,040",Soft/Low trends do not support rent recommendation,,Kaitlin Dierks,2024-06-07,2162.8067830403647,2112.3094889322915,2213.3038736979165
+Cortland Jubilee Park,3x2,2024-06-06,"2,454",Baseline Rent Accepted,,Kaitlin Dierks,2024-06-07,2448.9856305803573,2392.2209821428573,2505.7505231584823
+The Terraces at Lake Mary,1x1,2024-06-06,"1,390",Soft/Low trends do not support rent recommendation,,Kaitlin Dierks,2024-06-07,1468.7758653428818,1434.6675889756943,1502.8841417100693
+Abbie Lakes,2x2,2024-06-06,"1,362",Baseline Rent Accepted,F90 96%,Melissa Jones,2024-06-07,1395.672154017857,1361.8182721819196,1429.5260358537946
+Tramore Village,3x2,2024-05-21,"1,950",Baseline Rent Accepted,Baseline Rent Accepted,Zack Knab,2024-05-22,1962.0660125732422,1916.7706390380858,2007.3614074707032
+Tramore Village,3x2,2024-05-21,"1,950",Baseline Rent Accepted,Baseline Rent Accepted,Zack Knab,2024-05-22,1962.0660125732422,1916.7706390380858,2007.3614074707032
+Cortland Arbor Hills,2x1,2024-06-19,"1,862",Other Action taken (see comment),,Ruchi Naik,2024-06-20,1718.0147705078125,1677.0408935546875,1758.988525390625
+Cortland East Cobb,3x2,2024-06-17,"2,310",Baseline Rent Accepted,,Zack Knab,2024-06-18,2335.9151785714284,2277.9815848214284,2393.8487723214284
+Abbie Lakes,1x1,2024-05-30,"1,103",Baseline Rent Accepted,,Melissa Jones,2024-05-31,1118.2101411365327,1090.8233003162202,1145.5969819568452
+Huntington Glen,1x1,2024-05-23,"1,413",Baseline Rent Accepted,,Ruchi Naik,2024-05-24,1397.7047261082848,1366.9554585301598,1428.4541157567223
+Cortland La Villita,1x1,2024-05-23,"1,574",Other Action taken (see comment),still need Occ so held rate,Ruchi Naik,2024-05-24,1690.416027250744,1653.6693231491815,1727.1627307710194
+Cortland at West Village - Phase 1,0x1,2024-05-27,"1,965",Strong/High trends do not support rent recommendation,,Ruchi Naik,2024-05-28,1898.8952829461348,1854.9492380242598,1942.8413278680098
+Cortland Riverside,1x1,2024-05-23,"1,512",Other Action taken (see comment),need Occ budget 96% small tweak,Ruchi Naik,2024-05-24,1554.411721880008,1519.5241486378204,1589.299173051883
+Cortland Powell,3x2.5,2024-06-20,"2,300",Baseline Rent Accepted,"F90 91%, net leased 94%",Melissa Jones,2024-06-21,2277.056884765625,2223.82568359375,2330.287841796875
+Cortland NoDa,1x1.5,2024-05-28,"1,920",Soft/Low trends do not support rent recommendation,"occ/trend goal, lack of demand",Melissa Jones,2024-05-29,1996.5185682508682,1950.8139241536458,2042.2232259114583
+Cortland Whitehall,3x2,2024-06-06,"1,969",Baseline Rent Accepted,F60 83%,Melissa Jones,2024-06-07,1923.2318929036458,1877.1094563802083,1969.3544514973958
+The Overlook at Daytona,0x1,2024-06-18,"1,121",Strong/High trends do not support rent recommendation,,Kaitlin Dierks,2024-06-19,1032.1805284288193,1014.2371487087673,1050.1239081488716
+Cortland NoDa,0x1,2024-05-20,"1,387",Baseline Rent Accepted,Baseline Rent Accepted,Melissa Jones,2024-05-21,1397.8597889775815,1364.897020422894,1430.8226796025815
+Cortland at Valley Ranch,2x2,2024-05-23,"2,240",Baseline Rent Accepted,,Ruchi Naik,2024-05-24,2245.7891671316966,2194.155374581473,2297.4232003348216
+Cortland NoDa,3x2,2024-05-28,"2,729",Baseline Rent Accepted,,Melissa Jones,2024-05-29,2795.534423828125,2728.802490234375,2862.2666015625
+Cortland University North,2x1,2024-06-17,"1,450",Baseline Rent Accepted,0 avail,Melissa Jones,2024-06-18,1415.3333740234375,1380.324951171875,1450.3416748046875
+Cortland Las Colinas,2x2.5,2024-05-23,"2,620",Other Action taken (see comment),only 1 unit left to sell,Ruchi Naik,2024-05-24,2489.2099609375,2430.729736328125,2547.690185546875
