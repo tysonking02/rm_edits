@@ -49,8 +49,37 @@ plt.tight_layout()
 
 plt.savefig('rm_edits/figures/acc_over_time.png')
 
-#### Create Table of Low Acceptance Markets ####
+#### Create table by Unit Group ####
 
+by_unitgroup = baseline_merged.groupby('FloorPlanGroupName').agg(
+    count = ('accepted', 'count'),
+    acceptance_rate = ('accepted_range', 'mean'),
+    median_adjustment = ('Diff', 'median')
+).sort_values('acceptance_rate', ascending=False).reset_index()
+
+by_unitgroup = by_unitgroup[by_unitgroup['count'] > 50]
+
+# Create a GT object
+table = GT(by_unitgroup[['FloorPlanGroupName', 'acceptance_rate', 'median_adjustment']])
+
+table = (
+    table
+    .cols_label(FloorPlanGroupName = md("**Unit Group**"),
+                acceptance_rate = md("**Acceptance Rate**"),
+                median_adjustment = md("**Median Adjustment**"))
+    .tab_header(title = "Price Change Metrics by Unit Group")
+    .fmt_currency(columns = 2)
+    .fmt_percent(columns = 1)
+    .fmt_number(columns="median_adjustment", decimals=2)
+    .tab_style(
+        style=style.text(style="italic"),
+        locations = loc.body(columns=0)
+    )
+)
+
+table.save('rm_edits/figures/acc_by_unitgroup.png')
+
+#### Create Table by Market ####
 
 baseline_merged['AcquisitionDate_numeric'] = pd.to_datetime(baseline_merged['AcquisitionDate']).astype(int) / 10**9
 
@@ -67,39 +96,9 @@ by_market = baseline_merged.groupby(['MarketName']).agg(
 by_market['acquisition_date'] = pd.to_datetime(by_market['acquisition_date_numeric'], unit='s')
 by_market.drop(columns=['acquisition_date_numeric'], inplace=True)
 
-# Calculate the overall mean acceptance rate
-overall_mean_acceptance_rate = baseline_merged['accepted_range'].mean()
+by_market = by_market[['MarketName', 'num_assets', 'acquisition_date', 'acceptance_rate', 'median_adjustment']]
 
-# Function to perform the hypothesis test
-def perform_hypothesis_test(market_name, overall_mean):
-    # Get the acceptance rates for the current market
-    market_data = baseline_merged[baseline_merged['MarketName'] == market_name]['accepted_range']
-    
-    # Check if there are enough data points to perform the test
-    if len(market_data) > 1:  # We need at least two data points for a valid t-test
-        t_stat, p_value = stats.ttest_1samp(market_data, overall_mean)
-        return p_value
-    else:
-        return float('nan')  # Return NaN if not enough data to perform t-test
-
-# Apply the hypothesis test for each market and store the results in a new column 'p_value'
-by_market['p_value'] = by_market['MarketName'].apply(lambda x: perform_hypothesis_test(x, overall_mean_acceptance_rate))
-
-# Adding a new column 'is_significant' to indicate if p-value is less than 0.05 (95% confidence)
-by_market['is_significant'] = by_market['p_value'] < 0.05
-
-by_market = by_market[['MarketName', 'num_assets', 'acquisition_date', 'acceptance_rate', 'median_adjustment', 'count', 'p_value', 'is_significant']]
-
-# Filter markets that are significantly different from the overall mean (p-value < 0.05)
-significant_markets = by_market[by_market['is_significant']]
-
-below_average_markets = significant_markets[significant_markets['acceptance_rate'] < overall_mean_acceptance_rate]
-
-# Drop 'p_value' and 'is_significant' columns
-below_average_markets = below_average_markets.drop(columns=['count', 'p_value', 'is_significant'])
-
-# Create a GT object
-table = GT(below_average_markets)
+table = GT(by_market)
 
 table = (
     table
@@ -108,10 +107,10 @@ table = (
                 acquisition_date = md("**Earliest Acquisition**"),
                 acceptance_rate = md("**Acceptance Rate**"),
                 median_adjustment = md("**Median Adjustment**"))
-    .tab_header(title = "Price Change Metrics by Market",
-                subtitle = "(Markets with Significantly Low Acceptance Rate)")
+    .tab_header(title = "Price Change Metrics by Market")
     .fmt_currency(columns = 4)
     .fmt_percent(columns = 3)
+    .fmt_number(columns="median_adjustment", decimals=2)
     .tab_style(
         style=style.text(style="italic"),
         locations = loc.body(columns=0)
@@ -119,34 +118,7 @@ table = (
 )
 
 # Display the table
-# table.save('figures/low_acc_bymarket.png')
-
-above_average_markets = significant_markets[significant_markets['acceptance_rate'] > overall_mean_acceptance_rate]
-
-# Drop 'p_value' and 'is_significant' columns
-above_average_markets = above_average_markets.drop(columns=['count', 'p_value', 'is_significant'])
-
-# Create a GT object
-table = GT(above_average_markets)
-
-table = (
-    table
-    .cols_label(MarketName = md("**Market**"),
-                num_assets = md("**# Assets**"),
-                acquisition_date = md("**Earliest Acquisition**"),
-                acceptance_rate = md("**Acceptance Rate**"),
-                median_adjustment = md("**Median Adjustment**"))
-    .tab_header(title = "Price Change Metrics by Market",
-                subtitle = "(Markets with Significantly Low Acceptance Rate)")
-    .fmt_currency(columns = 4)
-    .fmt_percent(columns = 3)
-    .tab_style(
-        style=style.text(style="italic"),
-        locations = loc.body(columns=0)
-    )
-)
-
-# table.save('figures/high_acc_bymarket.png')
+table.save('rm_edits/figures/acc_bymarket.png')
 
 #### Create Table of Low Acceptance Rate Properties ####
 
@@ -188,7 +160,7 @@ significant_properties = by_property[by_property['is_significant']]
 below_average_properties = significant_properties[significant_properties['acceptance_rate'] < overall_mean_acceptance_rate]
 
 # Drop 'p_value' and 'is_significant' columns
-below_average_properties = below_average_properties.drop(columns=['count', 'p_value', 'is_significant']).tail(5)
+below_average_properties = below_average_properties.drop(columns=['count', 'p_value', 'is_significant']).tail(10)
 
 # Create a GT object
 table = GT(below_average_properties)
@@ -203,6 +175,7 @@ table = (
                 subtitle = "(Properties with Significantly Low Acceptance Rate)")
     .fmt_currency(columns = 3)
     .fmt_percent(columns = 2)
+    .fmt_number(columns="median_adjustment", decimals=2)
     .tab_style(
         style=style.text(style="italic"),
         locations = loc.body(columns=0)

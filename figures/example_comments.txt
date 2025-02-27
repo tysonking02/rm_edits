@@ -1,15 +1,15 @@
-Test -$10
-F90 92%, less drastic decrease
-1 unit to lease. Sitting in good spot for renewals in the FP
-leased 91%
-YS issue skewed data
-leased 90%, data entry
-moving in right direction
-F90 92%, concession implemented
-leased 92%, staleness
-Balancing two phases of a property
-4 unit FP, new unit four months out, smaller reduction
-hold
-leased 89%
+Test +$5
+leased 89%, data entry
 Making $1 change to move from YS to RMP
-held
+leased 93%
+Held the course in rates . We are seeing demand
+Hold
+Making $1 change to move from YS to RMP
+Dec -$50; Large rec from RMP. Seasonality issues.
+Marketing change
+Agree directionally
+leased at this price point and build back rate
+moving in right direction
+F90 87.5%, less drastic decrease
+leased 90%, data entry
+correct direction
